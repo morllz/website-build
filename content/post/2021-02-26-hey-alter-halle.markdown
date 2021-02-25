@@ -14,6 +14,12 @@ Die Coronapandemie und die damit verbundenen Auflagen prägen unseren Alltag. E-
 
 <!--more-->
 
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2020/05/IMG_6553_small.jpg" >}}
+{{< figure link="/wp-content/uploads/2020/05/IMG_6555_small.jpg" >}}
+{{< /gallery >}}  
+
+
 ### Projekt startete in Braunschweig
 
 Während der Corona-bedingten Schulschließungen wurde deutlich, wie wichtig eine digitale Infrastruktur auch für Kinder ist. Allerdings haben viele Familien nicht die Möglichkeit, eigene Rechner für ihre Kinder anzuschaffen.
