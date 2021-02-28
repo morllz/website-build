@@ -10,7 +10,7 @@ categories:
 - Verein
 ---
 
-Aufgrund der Pandemieentwicklung sowie der [Allgemeinverfügung für die Stadt Halle (Saale) vom 21.10.2020](https://www.halle.de/push.aspx?de/Verwaltung/Gesundheit/Corona-Virus/Dokumente/allgemeinverfuegung_nr.6_2020.pdf) haben wir unsere Hygieneregeln angepasst.
+Aufgrund der Pandemieentwicklung sowie der Allgemeinverfügung für die Stadt Halle (Saale) vom 21.10.2020 haben wir unsere Hygieneregeln angepasst.
 
 **Ab dem 22.10.2020 gilt im gesamten Eigenbaukombinat eine Maskenpflicht.**
 

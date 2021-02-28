@@ -17,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
 unsafe= true
 
 [Params]
-  subtitle = "Makerspace, Hackerspace und Mitmachwerkstatt in Halle (Saale)"
+  subtitle = "Makespace, Hackspace und Mitmachwerkstatt in Halle (Saale)"
   mainSections = ["about", "post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -55,13 +55,16 @@ unsafe= true
   desc = "Hardware"
 [[Params.bigimg]]
   src = "img/slider-7.jpg"
-  desc = "Handarbeitsbereich"
+  desc = "Handarbeit"
 [[Params.bigimg]]
   src = "img/slider-8.jpg"
-  desc = "Siebdruckbereich"
+  desc = "Siebdruck"
 [[Params.bigimg]]
   src = "img/slider-9.jpg"
-  desc = "Metallbereich"
+  desc = "Metall"
+[[Params.bigimg]]
+  src = "img/slider-10.jpg"
+  desc = "Holz"
 
 
 [Author]
@@ -106,21 +109,29 @@ unsafe= true
 
 [[menu.main]]
     name = "Über uns"
+    weight = 3
+    identifier = "uberuns"
+
+[[menu.main]]
+    name = "Über uns"
     url = "uber-uns/"
     weight = 3
+    parent = "uberuns"
 
 [[menu.main]]
     name = "Werkstatt"
     url = "/werkstatt/"
     weight = 4
+    parent = "uberuns"
 
 [[menu.main]]
     name = "Matrix"
     url = "/unser-neuer-chat-und-nachrichtenserver/"
     weight = 5
-
+    parent = "uberuns"
 
 [[menu.main]]
     name = "Impressum"
     url = "impressum/"
     weight = 6
+    parent = "uberuns"

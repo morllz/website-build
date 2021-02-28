@@ -17,7 +17,7 @@ Die Coronapandemie und die damit verbundenen Auflagen prägen unseren Alltag. E-
 {{< gallery caption-effect="fade" >}}
 {{< figure link="/wp-content/uploads/2020/05/IMG_6553_small.jpg" >}}
 {{< figure link="/wp-content/uploads/2020/05/IMG_6555_small.jpg" >}}
-{{< /gallery >}}  
+{{< /gallery >}}
 
 
 ### Projekt startete in Braunschweig
