@@ -66,7 +66,6 @@ unsafe= true
   src = "img/slider-10.jpg"
   desc = "Holz"
 
-
 [Author]
   name = ""
   website = "https://eigenbaukombinat.de/"
