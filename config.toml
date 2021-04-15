@@ -65,7 +65,9 @@ unsafe= true
 [[Params.bigimg]]
   src = "img/slider-10.jpg"
   desc = "Holz"
-
+[[Params.bigimg]]
+  src = "img/slider-11.jpg"
+  desc = "Garten"
 [Author]
   name = ""
   website = "https://eigenbaukombinat.de/"
