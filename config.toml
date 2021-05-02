@@ -133,7 +133,7 @@ unsafe= true
 
 [[menu.main]]
     name = "status"
-    url = "status/"
+    url = "extstatus/"
     weight = 6
     parent = "uberuns"
 
