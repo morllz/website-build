@@ -132,7 +132,13 @@ unsafe= true
     parent = "uberuns"
 
 [[menu.main]]
+    name = "status"
+    url = "status/"
+    weight = 6
+    parent = "uberuns"
+
+[[menu.main]]
     name = "Impressum"
     url = "impressum/"
-    weight = 6
+    weight = 7
     parent = "uberuns"
