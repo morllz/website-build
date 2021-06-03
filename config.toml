@@ -102,6 +102,25 @@ unsafe= true
     name = "Blog"
     url = "post/"
     weight = 1
+    identifier = "blog"
+
+[[menu.main]]
+    name = "Blog"
+    url = "post/"
+    weight = 3
+    parent = "blog"
+
+[[menu.main]]
+    name = "Kategorien"
+    url = "categories/"
+    weight = 3
+    parent = "blog"
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 3
+    parent = "blog"
 
 [[menu.main]]
     name = "Veranstaltung"
