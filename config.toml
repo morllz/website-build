@@ -107,7 +107,13 @@ unsafe= true
 [[menu.main]]
     name = "Blog"
     url = "post/"
-    weight = 3
+    weight = 1
+    parent = "blog"
+
+[[menu.main]]
+    name = "Archiv"
+    url = "archiv/"
+    weight = 2
     parent = "blog"
 
 [[menu.main]]
@@ -119,7 +125,7 @@ unsafe= true
 [[menu.main]]
     name = "Tags"
     url = "tags/"
-    weight = 3
+    weight = 4
     parent = "blog"
 
 [[menu.main]]
