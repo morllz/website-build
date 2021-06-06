@@ -157,7 +157,19 @@ unsafe= true
     parent = "uberuns"
 
 [[menu.main]]
+    name = "Mitmachen"
+    url = "mitmachen/"
+    weight = 7
+    parent = "uberuns"
+
+[[menu.main]]
+    name = "Anfahrt"
+    url = "anfahrt/"
+    weight = 8
+    parent = "uberuns"
+
+[[menu.main]]
     name = "Impressum"
     url = "impressum/"
-    weight = 7
+    weight = 9
     parent = "uberuns"
