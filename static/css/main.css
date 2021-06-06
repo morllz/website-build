@@ -648,7 +648,7 @@ footer .theme-by {
 
 .header-section.has-img .no-img {
   margin-top: 0;
-  background: #FCFCFC;
+  /* background: #FCFCFC; */
   margin: 0 0 40px;
   padding: 20px 0;
   box-shadow: 0 0 5px #AAA;
@@ -657,9 +657,9 @@ footer .theme-by {
 .header-section.has-img .intro-header.no-img {
   display: none;
 }
-@media only screen and (max-width: 365px) {
+@media only screen and (max-width: 330px) {
   .header-section.has-img .intro-header.no-img {
-    display: block;
+    display: none;
   }
   .intro-header.big-img {
     width: 100%;
