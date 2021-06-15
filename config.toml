@@ -131,6 +131,12 @@ unsafe= true
     parent = "blog"
 
 [[menu.main]]
+    name = "Suche"
+    url = "search/"
+    weight = 5
+    parent = "blog"
+
+[[menu.main]]
     name = "Veranstaltung"
     url = "/unsere-veranstaltungen/"
     weight = 2
@@ -181,3 +187,11 @@ unsafe= true
     url = "impressum/"
     weight = 9
     parent = "uberuns"
+
+# Search index for lunr.js
+[outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "search"
+
+[outputs]
+    home = ["HTML", "SearchIndex", "RSS"]
