@@ -9,7 +9,8 @@ categories:
 - Fertige Projekte
 - Veranstaltungen
 tags:
-- Basteln /Handarbeit
+- Basteln
+- Handarbeit
 - Kurs
 ---
 

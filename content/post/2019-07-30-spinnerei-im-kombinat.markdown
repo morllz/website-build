@@ -8,7 +8,8 @@ url: /spinnerei-im-kombinat/
 categories:
 - Fertige Projekte
 tags:
-- Basteln /Handarbeit
+- Basteln
+- Handarbeit
 ---
 
 

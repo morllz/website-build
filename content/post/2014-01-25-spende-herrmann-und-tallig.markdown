@@ -8,7 +8,8 @@ url: /spende-herrmann-und-tallig/
 categories:
 - Unterstützer
 tags:
-- Spenden /Sponsoring
+- Spenden
+- Sponsoring
 ---
 
 Eine neue Spende hat unsere Räume erreicht. Mit der halleschen Firma Herrmann & Tallig Objektdienste GmbH haben wir einen neuen Unterstützer gefunden: Jetzt haben wir für jeden Raum einen eigenen Besen und Eimer. <!-- more --> Auch etliche Rollen Toilettenpapier, richtige Schrubber, Putzmittel und vieles mehr sind jetzt einsatzbereit.

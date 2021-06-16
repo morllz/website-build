@@ -8,7 +8,8 @@ url: /gestrickter-haargummi/
 categories:
 - Fertige Projekte
 tags:
-- Basteln /Handarbeit
+- Basteln
+- Handarbeit
 ---
 
 Eine kleine schnelle Handarbeit, die sich gut verschenken lässt, sind Haargummis. Wir hatten schon mal [ einfache gehäkelte](/basteln-mit-kindern-armbander-hakeln/). Wer es filigraner mag, kann folgendes tun:<!-- more -->

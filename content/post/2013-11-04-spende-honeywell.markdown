@@ -8,7 +8,8 @@ url: /spende-honeywell/
 categories:
 - Unterstützer
 tags:
-- Spenden /Sponsoring
+- Spenden
+- Sponsoring
 ---
 
 Pünktlich zur kalten Jahreszeit hat uns eine Spende von Honeywell erreicht. So können wir drahtlos unsere Heizungen regeln und immer pünktlich zu den Öffnungszeiten die Räume heizen.<!-- more -->

@@ -10,7 +10,8 @@ categories:
 - Unterstützer
 tags:
 - Elektronik
-- Spenden /Sponsoring
+- Spenden
+- Sponsoring
 ---
 
 Nachwuchs! Wir begrüßen unsere Neuzugänge im Elektronikbereich:
