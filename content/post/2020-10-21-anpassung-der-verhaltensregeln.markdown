@@ -14,7 +14,7 @@ Aufgrund der immer noch aktiven Pandemie haben wir ein Regelwerk erarbeitet. Bit
 
 <!--more-->
 
-## UPDATE 22.06.2019
+## UPDATE 22.06.2021
 
 ### Zugang
 
