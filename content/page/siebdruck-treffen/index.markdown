@@ -21,7 +21,7 @@ tags:
 
 Wir treffen uns zum Austausch über das schöne Thema Siebdruck, besprechen anstehende organisatorische Themen, erledigen Dinge oder drucken auch mal was.
 Themenwünsche bitte im [Pad](https://pads.eigenbaukombinat.de/Siebdruck) eintragen.
-Fragen gerne per [Matrix-Chat](/unser-neuer-chat-und-nachrichtenserver/) in die Siebdruck-Gruppe oder oder per E-Mail an [veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de)
+Fragen gerne per [Matrix-Chat](/unser-neuer-chat-und-nachrichtenserver/) in die Siebdruck-Gruppe oder oder per E-Mail an [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
 
 ### Termin
 
