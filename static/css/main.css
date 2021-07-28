@@ -189,15 +189,14 @@ img {
   color: #0085a1;
 }
 
+@media (prefers-color-scheme: dark) {
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  @media (prefers-color-scheme: dark) {
     color: #b0e0ff;
-  }
+ }
 }
-
 .navbar-custom .navbar-brand-logo {
   padding-top: 0;
   -webkit-transition: padding .5s ease-in-out;
@@ -720,6 +719,7 @@ footer .theme-by {
   background: #444;
   color: white;
 }
+}
 
 .pager {
   margin: 10px 0 0;
@@ -826,11 +826,13 @@ div.splitbox div.right {
   border-radius: 0;
   color: #404040;
 }
+
 @media only screen and (min-width: 768px) {
   .disqus-comments button {
     padding: 15px 25px;
   }
 }
+
 .disqus-comments button:hover, 
 .disqus-comments button:focus {
   color: #FFF;
@@ -844,11 +846,11 @@ h4.see-also {
 }
 
 /* Sharing */
- ul.share {
+ul.share {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  list-style: none;
+  list-style-type: none;
   margin: 0;
   padding: 0;
 }
