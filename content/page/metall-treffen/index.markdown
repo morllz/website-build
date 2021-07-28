@@ -7,10 +7,21 @@ type: page
 url: /metall-treffen/
 ---
 
-Für alle die lieber Drehen statt Drechseln und Schweißen statt Löten wird es ab jetzt jeden 1. Montag im Monat das Metalltreffen geben. Ziel ist es alle Metall verbundenen Mitglieder im EBK zusammenzuführen und den Metallbereich weiter auszubauen. Dazu gibt es noch einiges zu tun worüber man sich zu diesem Treffen austauschen und Strategien entwickeln kann. Hierzu gibt es auch schon ein Pad mit vielen Ideen und Vorschlägen.
+Die Freunde der Metallverarbeitung im Eigenbaukombinat treffen sich regelmäßig monatlich immer am ersten Montag.
+Es werden aktuelle Themen besprochen, Maschinen und Werkzeuge gewartet und repariert, sowie Zukunftspläne geschmiedet.
 
-Metall-Pad: [/pads.terminal21.de/Metall](/pads.terminal21.de/Metall)
+Metall-Pad: [https://pads.eigenbaukombinat.de/Metall](https://pads.eigenbaukombinat.de/Metall)
 
-Dazu gehört zum Beispiel eine effiziente Raumplanung sowie die Herstellung einiger wichtiger Arbeitsmittel bei deren Herstellung man auch gleich den Umgang mit den einzelnen Maschinen erlernen kann.
-(Einweisung)
-z.B.: zwei Gestelle für den Schweißvorhang, eine Werkbank für den Fahrradbereich, mehrere Auflagen für die Bandsäge
+### Termin
+
+Immer am ersten Montag im Monat ab 19:00 Uhr.
+
+### Dauer
+
+Etwa 3 Stunden.
+
+### Teilnehmen
+
+* ohne Anmeldung
+* Anzahl unbeschränkt
+* offen für Gäste
