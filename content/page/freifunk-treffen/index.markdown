@@ -7,71 +7,21 @@ type: page
 url: /freifunk-treffen/
 ---
 
-<table >
-<tbody style="font-size: 1.2em;" >
-<tr >
 
-<td style="width: 20%; text-align: right;" >**TERMIN**
-</td>
+{{< figure link="/img/ffhal.png" >}}
 
-<td style="text-align: left;" > Jeden dritten Dienstag im Monat ab 19 Uhr
-</td>
-</tr>
-<tr >
+Freifunk Halle trifft sich zum Quatschen und Basteln an freien Netzen in Halle. [Mehr Informationen auf freifunk-halle.org](https://freifunk-halle.org/).
 
-<td style="width: 20%; text-align: right;" >**DAUER**
-</td>
+### Termin
 
-<td style="text-align: left;" >offen
-</td>
-</tr>
-<tr >
+Immer am dritten Dienstag im Monat ab 19:00 Uhr
 
-<td style="width: 20%; text-align: right;" >**TEILNEHMER**
-</td>
+### Dauer
 
-<td style="text-align: left;" >unbeschränkt
-</td>
-</tr>
-<tr >
+Etwa 2-3 Stunden.
 
-<td style="width: 20%; text-align: right;" >**KOSTEN**
-</td>
+### Teilnehmen
 
-<td style="text-align: left;" >kostenlos
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**KURSLEITER**
-</td>
-
-<td style="text-align: left;" >Freifunk Halle
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**ORT**
-</td>
-
-<td style="text-align: left;" >Eigenbaukombinat
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**INHALT**
-</td>
-
-<td style="text-align: left;" >Freifunk Halle trifft sich zum Quatschen und Basteln an freien Netzen in Halle. [Mehr Informationen.](https://www.freifunk-halle.net/)
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**ANMELDUNG**
-</td>
-
-<td style="text-align: left;" >nicht notwendig
-</td>
-</tr>
-</tbody>
-</table>
+* ohne Anmeldung
+* unbegrenzt
+* offen für Gäste

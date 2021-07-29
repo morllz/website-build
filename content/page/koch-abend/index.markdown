@@ -10,71 +10,33 @@ categories:
 - Verein
 ---
 
-<table >
-<tbody style="font-size: 1.2em;" >
-<tr >
-
-<td style="width: 20%; text-align: right;" >**TERMIN**
-</td>
-
-<td style="text-align: left;" >Jeden dritten Freitag im Monat
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**DAUER**
-</td>
-
-<td style="text-align: left;" >etwa 2-3 Stunden
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**TEILNEHMER**
-</td>
-
-<td style="text-align: left;" >1-15
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**KOSTEN**
-</td>
-
-<td style="text-align: left;" >faire Kostenbeteiligung, je nach dem was es zu Essen gibt 3€-5€
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**ORT**
-</td>
-
-<td style="text-align: left;" >Eigenbaukombinat
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**BESCHREIBUNG**
-</td>
-
-<td style="text-align: left;" >Mitkochen ausdrücklich erwünscht!
-
-Es wird gemeinsam gekocht und gegessen. So kommt der Student oder der Holzwurm auch mal zu etwas anderem als TK-Pizza und lernt vielleicht sogar, wie er sich selber verpflegen kann.
-
-Außerdem: Essen verbindet. Die Kosten dafür werden fair unter den Anwesenden aufgeteilt.
-
-Im Idealfall meldet ihr Euch für das kochen an, damit die Mengen geplant werden können. In der Regel gibt es ein [Menüvorschlag einige Tage vorher in unserem Blog.](/tag/kochabend/) Dort gibt es dann auch den Link zur Anmeldung.
-
-Fragen per E-Mail an [veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de)
-
-
 {{< gallery caption-effect="fade" >}}
-  {{< figure link="/wp-content/uploads/2015/06/IMG_84492.jpg" >}}
+{{< figure link="/wp-content/uploads/2015/06/IMG_84492.jpg" >}}
 {{< figure link="/wp-content/uploads/2015/06/IMG_84489.jpg" >}}
 {{< figure link="/wp-content/uploads/2015/06/IMG_84504.jpg" >}}
 {{< figure link="/wp-content/uploads/2015/06/IMG_84496.jpg" >}}
 {{< /gallery >}}
-</td>
-</tr>
-</tbody>
-</table>
+
+Es wird gemeinsam gekocht und gegessen. Neben der Abwechslung zur sonst im Eigenbaukombinat gerne verzehrten TK-Pizza oder dem Döner eine gute Gelegenheit sich gegenseitig kennen zu lernen.
+
+Die Kosten werden fair unter den Anwesenden aufgeteilt.
+
+Im Idealfall meldet ihr Euch an, damit die Mengen geplant werden können. In der Regel gibt es einen [Menüvorschlag einige Tage vorher in unserem Blog](/tag/kochabend/). Dort gibt es dann auch den Link zur Anmeldung.
+
+### Termin
+
+Immer am dritten Freitag im Monat.
+
+### Dauer
+
+Etwa 2-3 Stunden.
+
+### Teilnehmen
+
+* Anmeldung erwünscht
+* maximal 15 Personen
+* offen für Gäste
+
+### Kosten
+
+Faire Kostenbeteiligung, je nach dem was es zu Essen gibt 3€ - 5€ pro Person.

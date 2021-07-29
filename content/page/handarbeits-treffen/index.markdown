@@ -18,9 +18,6 @@ url: /handarbeits-treffen/
 
 Wir treffen uns zum Nähen, Stricken, Häkeln, Filzen und mehr im Eigenbaukombinat. Anfänger:innen und fortgeschrittene sind gleichermaßen willkommen.
 
-Fragen gerne per E-Mail an [handarbeit@eigenbaukombinat.de](mailto:handarbeit@eigenbaukombinat.de)
-
-
 ### Termin
 
 Jeden Montag in geraden Kalenderwochen ab 19:00 Uhr.
