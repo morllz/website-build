@@ -14,7 +14,7 @@ url: /fototag/
 <td style="padding: 5px; width: 20%; text-align: right;" >**TERMIN**
 </td>
 
-<td style="padding: 5px; text-align: left;" >Jeden Donnerstag ab 20 Uhr
+<td style="padding: 5px; text-align: left;" >Jeden Donnerstag ab 19 Uhr
 </td>
 </tr>
 <tr >
@@ -54,7 +54,7 @@ url: /fototag/
 <td style="padding: 5px; width: 20%; text-align: right;" >**INHALT**
 </td>
 
-<td style="padding: 5px; text-align: left;" >Donnerstags können das Fotostudio und die Dunkelkammer durch Mitglieder und Nichtmitglieder genutzt werden. Du erhältst technische Unterstützung, solltest aber schon Vorkenntnisse mitbringen, so dass du nach einer kurzen Einweisung selbstständig arbeiten kannst.Damit du dir das Fotostudio oder die Dunkelkammer nicht mit anderen teilen musst, melde dich bitte über das [Pretix](/tickets.eigenbaukombinat.de/ebk/fototag-2/) an.
+<td style="padding: 5px; text-align: left;" >Donnerstags können das Fotostudio und die Dunkelkammer durch Mitglieder und Nichtmitglieder genutzt werden. Du erhältst technische Unterstützung, solltest aber schon Vorkenntnisse mitbringen, so dass du nach einer kurzen Einweisung selbstständig arbeiten kannst.Damit du dir das Fotostudio oder die Dunkelkammer nicht mit anderen teilen musst, melde dich bitte über das [Pretix](https://tickets.eigenbaukombinat.de/ebk/fototag-2/) an.
 
 
  
@@ -79,7 +79,7 @@ Falls du noch keine Erfahrung hast und gern an einem Workshop teilnehmen möchte
 <td style="padding: 5px; width: 20%; text-align: right;" >**ANMELDUNG**
 </td>
 
-<td style="padding: 5px; text-align: left;" >[Hier buchen](/tickets.eigenbaukombinat.de/ebk/fototag-2/)
+<td style="padding: 5px; text-align: left;" >[Hier buchen](https://tickets.eigenbaukombinat.de/ebk/fototag-2/)
 </td>
 </tr>
 </tbody>
