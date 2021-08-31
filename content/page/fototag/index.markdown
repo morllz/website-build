@@ -7,27 +7,27 @@ type: page
 url: /fototag/
 ---
 
-## TERMIN
+### TERMIN
 
 Jeden Donnerstag ab 19 Uhr
 
-## DAUER
+### DAUER
 
 3 Stunden
 
-## TEILNEHMER
+### TEILNEHMER
 
 1
 
-## KOSTEN
+### KOSTEN
 
 5,00 Eur für Nicht-Mitglieder + Verbrauch
 
-## ORT
+### ORT
 
 Eigenbaukombinat
 
-## INHALT
+### INHALT
 
 Donnerstags können das Fotostudio und die Dunkelkammer durch Mitglieder und Nichtmitglieder genutzt werden. Du erhältst technische Unterstützung, solltest aber schon Vorkenntnisse mitbringen, so dass du nach einer kurzen Einweisung selbstständig arbeiten kannst.Damit du dir das Fotostudio oder die Dunkelkammer nicht mit anderen teilen musst, melde dich bitte über das [Pretix](https://tickets.eigenbaukombinat.de/ebk/fototag-2/) an.
   
@@ -37,6 +37,6 @@ Falls du noch keine Erfahrung hast und gern an einem Workshop teilnehmen möchte
 [veranstaltungen@eigenbaukombinat.de]("mailto:veranstaltungen@eigenbaukombinat.de)
 
 
-## ANMELDUNG
+### ANMELDUNG
 
 [Hier buchen](https://tickets.eigenbaukombinat.de/ebk/fototag-2/)
