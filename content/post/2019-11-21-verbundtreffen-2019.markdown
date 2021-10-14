@@ -354,7 +354,7 @@ Das explore-Projekt des Verbundes lief ein Jahr und unterstützte zusammen mit d
 
 
 
-  * Der [Erfindergarden](/erfindergarden.de/), betreut von Andreas  
+  * Der [Erfindergarden](https://erfindergarden.de/), betreut von Andreas  
   * Der "[Verstehbahnhof](https://www.verstehbahnhof.de/)" in Fürstenberg vom havel:lab e.V.  
   * Projekt "Mädchen in Aktion" vom [Frauenzentrum Cottbus e.V.](https://www.frauenzentrum-cottbus.de/)  
   * Projekt "Made in Marzahn" vom [Gangway](https://gangway.de) e.V. - Straßensozialarbeit in Berlin  

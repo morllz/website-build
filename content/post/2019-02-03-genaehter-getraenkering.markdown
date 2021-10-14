@@ -12,7 +12,8 @@ categories:
 - Ideen für Projekte
 - Veranstaltungen
 tags:
-- Basteln /Handarbeit
+- Basteln
+- Handarbeit
 - Flaschenring
 - Getränke
 - Nähen

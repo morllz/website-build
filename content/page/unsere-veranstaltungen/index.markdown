@@ -18,7 +18,19 @@ jQuery('<div id="termin" ></div>').insertBefore(jQuery('termin').first())
 jQuery.get('https://eigenbaukombinat.de/api/kalender', function(resp) {
 var json = '';
 for(var i = 0; i < 25; i++){
-json = json + resp[i].startdate + ' ' + resp[i].starttime + ' - ' +  resp[i].enddate + ' ' + resp[i].endtime + ' ' +  resp[i].summary+ '<br>'
+  //url verlinken, wenn vorhanden
+  if (resp[i].url) {
+    summary = '<a href="'+resp[i].url+'">'+resp[i].summary+'</a>';
+  } else {
+    summary = resp[i].summary;
+  }
+  //enddate nur anzeigen, wenn != startdate
+  if (resp[i].startdate != resp[i].enddate) {
+    enddate = ' '+resp[i].enddate;
+  } else {
+    enddate = '';
+  }
+json = json + resp[i].startdate + ' ' + resp[i].starttime + ' –' +  enddate + ' ' + resp[i].endtime + ' ' +  summary+ '<br/>'
 
   };
   jQuery('#termin').html('<span padding:3px 5px 3px 5px; border-radius:4px; display:inline-block;"><span id="termin">' + json + '</span></span>');

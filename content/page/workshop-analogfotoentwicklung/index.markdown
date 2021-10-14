@@ -14,8 +14,8 @@ tags:
 - Dunkelkammer
 - Filmentwicklung
 - Fotograife
-- S/W-Entwicklung
-- S/W-Fotografie
+- SW-Entwicklung
+- SW-Fotografie
 ---
 
 

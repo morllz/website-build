@@ -8,7 +8,8 @@ url: /spende-schrauben-muttern-und-noch-mehr/
 categories:
 - Unterstützer
 tags:
-- Spenden /Sponsoring
+- Spenden
+- Sponsoring
 ---
 
 Der in Halle ansässige Metallwarenhandel Otto Linke Nachfolger (Otto-Stomps-Straße 10) hat uns freundlicherweise ein reichhaltiges Paket an metrischen-, Spaxschrauben, Muttern und weiteren Eisenwaren geschnürt und gespendet.

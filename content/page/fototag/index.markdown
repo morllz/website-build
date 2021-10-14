@@ -7,86 +7,36 @@ type: page
 url: /fototag/
 ---
 
-<table >
-<tbody >
-<tr >
+### TERMIN
 
-<td style="padding: 5px; width: 20%; text-align: right;" >**TERMIN**
-</td>
+Jeden Donnerstag ab 19 Uhr
 
-<td style="padding: 5px; text-align: left;" >Jeden Donnerstag ab 20 Uhr
-</td>
-</tr>
-<tr >
+### DAUER
 
-<td style="padding: 5px; width: 20%; text-align: right;" >**DAUER**
-</td>
+3 Stunden
 
-<td style="padding: 5px; text-align: left;" >3 Stunden
-</td>
-</tr>
-<tr >
+### TEILNEHMER
 
-<td style="padding: 5px; width: 20%; text-align: right;" >**TEILNEHMER**
-</td>
+1
 
-<td style="padding: 5px; text-align: left;" >1
-</td>
-</tr>
-<tr >
+### KOSTEN
 
-<td style="padding: 5px; width: 20%; text-align: right;" >**KOSTEN**
-</td>
+5,00 Eur für Nicht-Mitglieder + Verbrauch
 
-<td style="padding: 5px; text-align: left;" >5,00 Eur für Nicht-Mitglieder + Verbrauch
-</td>
-</tr>
-<tr >
+### ORT
 
-<td style="padding: 5px; width: 20%; text-align: right;" >**ORT**
-</td>
+Eigenbaukombinat
 
-<td style="padding: 5px; text-align: left;" >Eigenbaukombinat
-</td>
-</tr>
-<tr >
+### INHALT
 
-<td style="padding: 5px; width: 20%; text-align: right;" >**INHALT**
-</td>
-
-<td style="padding: 5px; text-align: left;" >Donnerstags können das Fotostudio und die Dunkelkammer durch Mitglieder und Nichtmitglieder genutzt werden. Du erhältst technische Unterstützung, solltest aber schon Vorkenntnisse mitbringen, so dass du nach einer kurzen Einweisung selbstständig arbeiten kannst.Damit du dir das Fotostudio oder die Dunkelkammer nicht mit anderen teilen musst, melde dich bitte über das [Pretix](/tickets.eigenbaukombinat.de/ebk/fototag-2/) an.
-
-
- 
-
-
-
-
+Donnerstags können das Fotostudio und die Dunkelkammer durch Mitglieder und Nichtmitglieder genutzt werden. Du erhältst technische Unterstützung, solltest aber schon Vorkenntnisse mitbringen, so dass du nach einer kurzen Einweisung selbstständig arbeiten kannst.Damit du dir das Fotostudio oder die Dunkelkammer nicht mit anderen teilen musst, melde dich bitte über das [Pretix](https://tickets.eigenbaukombinat.de/ebk/fototag-2/) an.
+  
 Für Nicht-Mitglieder kostet die Benutzung 5,00 Eur für jeweils 3 h + den Materialverbrauch, Mitglieder zahlen nur den Verbrauch.
-
-
-
 
 Falls du noch keine Erfahrung hast und gern an einem Workshop teilnehmen möchtest, dann schreib uns einfach, welche Art von Workshop du dir wünschen würdest:  
 [veranstaltungen@eigenbaukombinat.de]("mailto:veranstaltungen@eigenbaukombinat.de)
 
 
+### ANMELDUNG
 
-</td>
-</tr>
-<tr >
-
-<td style="padding: 5px; width: 20%; text-align: right;" >**ANMELDUNG**
-</td>
-
-<td style="padding: 5px; text-align: left;" >[Hier buchen](/tickets.eigenbaukombinat.de/ebk/fototag-2/)
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-
-
-
+[Hier buchen](https://tickets.eigenbaukombinat.de/ebk/fototag-2/)

@@ -9,7 +9,8 @@ categories:
 - Unterstützer
 - Verein
 tags:
-- Spenden /Sponsoring
+- Spenden
+- Sponsoring
 ---
 
 Wir danken der Firma Würth und ihrer Niederlassung in der Delitzscher Straße in Halle für die Spende eines kleinen und handlichen Akkuschraubers sowie eines Satzes hochwertiger Schraubendreher.

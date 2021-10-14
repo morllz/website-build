@@ -13,7 +13,7 @@ tags:
 - Vortrag
 ---
 
-Am 7.12 ab 19:00 Uhr besucht uns [Erik Albers](/fsfe.org/about/albers/albers.en.html) von der [Free Software Foundation Europe](/fsfe.org/) und stellt die Initiative "[Public money, public code](/publiccode.eu/)" im Rahmen eines Vortrages vor. 
+Am 7.12 ab 19:00 Uhr besucht uns [Erik Albers](https://fsfe.org/about/albers/albers.en.html) von der [Free Software Foundation Europe](https://fsfe.org/) und stellt die Initiative "[Public money, public code](https://publiccode.eu/)" im Rahmen eines Vortrages vor. 
 
 
 <!-- more -->
@@ -32,7 +32,7 @@ Der Vortrag und die sich vielleicht danach entspinnende Diskussion wird sich dar
 
 
 
-Mehr Informationen zu der Initiative gibt es unter [/publiccode.eu/](/publiccode.eu/), zu dem Vortragsabend bei uns auf den Seiten [hier](/vortrag-public-money-public-code/).
+Mehr Informationen zu der Initiative gibt es unter [publiccode.eu/](https://publiccode.eu/), zu dem Vortragsabend bei uns auf den Seiten [hier](/vortrag-public-money-public-code/).
 
 
 

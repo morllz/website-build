@@ -10,7 +10,8 @@ categories:
 - Verein
 tags:
 - Schnappschüsse
-- Spenden /Sponsoring
+- Spenden
+- Sponsoring
 ---
 
 Am 19.10. war es soweit - nach zwei Monaten des Umbaus und der Renovierung haben wir unsere neuen Räume eröffnet. Um dies zu feiern und der Öffentlichkeit unsere Räume zu präsentieren, haben wir unsere Werkstätten zwei Tage lang für Besucher und Interessenten geöffnet.

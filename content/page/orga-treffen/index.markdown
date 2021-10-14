@@ -5,59 +5,26 @@ draft: false
 title: Orga-Treffen
 type: page
 url: /orga-treffen/
+categories:
+- Veranstaltungen
+tags:
+- Orga
 ---
 
-<table >
-<tbody style="font-size: 1.2em;" >
-<tr >
+Beim Orga-Treffen werden organisatorische Themen des Eigenbaukombinats diskutiert und Entscheidungen getroffen.
 
-<td style="width: 20%; text-align: right;" >**TERMIN**
-</td>
+Jedes Mitglied ist eingeladen teilzunehmen und aktiv mitzugestalten! Auch Gäste sind willkommen.
 
-<td style="text-align: left;" >Erster Mittwoch und dritter Sonntag im  Monat ab 20 Uhr
-</td>
-</tr>
-<tr >
+### Termin
 
-<td style="width: 20%; text-align: right;" >**DAUER**
-</td>
+Erster Mittwoch und dritter Sonntag im Monat ab 20 Uhr
 
-<td style="text-align: left;" >2 Stunden
-</td>
-</tr>
-<tr >
+### Dauer
 
-<td style="width: 20%; text-align: right;" >**TEILNEHMER**
-</td>
+Etwa 2 Stunden.
 
-<td style="text-align: left;" >unbegrenzt
-</td>
-</tr>
-<tr >
+### Teilnehmen
 
-<td style="width: 20%; text-align: right;" >**ORT**
-</td>
-
-<td style="text-align: left;" >Eigenbaukombinat
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**INHALT**
-</td>
-
-<td style="text-align: left;" >Beim Orga-Treffen werden aktuelle Themen des Eigenbaukombinats diskutiert.
-
-Jedes Mitglied ist eingeladen teilzunehmen und aktiv mitzugestalten!
-</td>
-</tr>
-<tr >
-
-<td style="width: 20%; text-align: right;" >**ANMELDUNG**
-</td>
-
-<td style="text-align: left;" >nicht notwendig
-</td>
-</tr>
-</tbody>
-</table>
+* ohne Anmeldung
+* Anzahl unbeschränkt
+* offen für Gäste

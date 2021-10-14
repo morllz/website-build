@@ -9,7 +9,8 @@ categories:
 - Handarbeiten
 - Reparatur
 tags:
-- Basteln /Handarbeit
+- Basteln
+- Handarbeit
 - Kuscheltier
 - Nähen
 - Schaf

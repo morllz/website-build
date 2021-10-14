@@ -12,7 +12,8 @@ categories:
 - Verein
 tags:
 - Metall
-- Spenden /Sponsoring
+- Spenden
+- Sponsoring
 ---
 
 Neue Maschinen für unsere Metallwerkstatt!

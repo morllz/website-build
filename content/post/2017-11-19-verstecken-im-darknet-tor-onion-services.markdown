@@ -16,7 +16,7 @@ tags:
 - Vortrag
 ---
 
-Am 29. November ab 19 Uhr haben wir [Jens Kubieziel](/kubieziel.de) bei uns im Eigenbaukombinat zu Gast. Gemeinsam mit ihm möchten wir über [Tor](https://www.torproject.org/) und dessen Tor Onion Services, auch bekannt als das »Darknet« reden. Jens wird den Abend mit einem Vortrag beginnen, danach haben wir noch ein wenig Zeit gemeinsam offene Fragen zu klären.
+Am 29. November ab 19 Uhr haben wir [Jens Kubieziel](https://kubieziel.de) bei uns im Eigenbaukombinat zu Gast. Gemeinsam mit ihm möchten wir über [Tor](https://www.torproject.org/) und dessen Tor Onion Services, auch bekannt als das »Darknet« reden. Jens wird den Abend mit einem Vortrag beginnen, danach haben wir noch ein wenig Zeit gemeinsam offene Fragen zu klären.
 
 
 <!-- more -->

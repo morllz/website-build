@@ -2,62 +2,31 @@
 author: dash
 date: 2017-10-31 20:11:36+00:00
 draft: false
-title: Offenes Treffen für Junghacker
+title: Offenes Treffen für Junghacker:innen
 type: page
 url: /junghackertreffen/
 ---
 
-<table >
-<tbody >
-<tr >
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/img/junghacker1.jpg" >}}
+{{< figure link="/img/junghacker2.jpg" >}}
+{{< figure link="/img/junghacker3.jpg" >}}
+{{< figure link="/img/junghacker4.jpg" >}}
+{{< figure link="/img/junghacker5.jpg" >}}
+{{< figure link="/img/junghacker6.jpg" >}}
+{{< /gallery >}}
 
-<td style="padding: 5px; width: 20%; text-align: right;" >TERMIN
-</td>
+Der Junghacker:innentreff ist ein offener Treff für junge Menschen, die sich zusätzlich zum monatlichen Termin treffen möchten, um an ihren eigenen Projekten zu arbeiten. Die Junghacker:innen helfen sich dabei gegenseitig. Betreuer:innen können Hilfestellungen geben.
 
-<td style="padding: 5px; text-align: left;" >Jeden Dienstag ab 16 Uhr
-</td>
-</tr>
-<tr >
+Der Junghacker:innentreff ist passend für Dich, wenn Du mindestens 10 Jahre alt bist, und schon erste Erfahrungen im Programmieren gesammelt hast, zum Beispiel im Rahmen unserer monatlich stattfindenden Veranstaltung [JUNGHACKER](https://junghacker.de).
 
-<td style="padding: 5px; width: 20%; text-align: right;" >TEILNEHMER
-</td>
 
-<td style="padding: 5px; text-align: left;" >unbeschränkt
-</td>
-</tr>
-<tr >
+### Termin
 
-<td style="padding: 5px; width: 20%; text-align: right;" >KOSTEN
-</td>
+Jeden Dienstag ab 16 Uhr
 
-<td style="padding: 5px; text-align: left;" >kostenlos
-</td>
-</tr>
-<tr >
+### Teilnehmen
 
-<td style="padding: 5px; width: 20%; text-align: right;" >ORT
-</td>
-
-<td style="padding: 5px; text-align: left;" >Eigenbaukombinat
-</td>
-</tr>
-<tr >
-
-<td style="padding: 5px; width: 20%; text-align: right;" >INHALT
-</td>
-
-<td style="padding: 5px; text-align: left;" >Der Junghackertreff ist ein offener Treff für junge Menschen, die sich zusätzlich zum monatlichen Termin treffen möchten, um an ihren eigenen Projekten zu arbeiten. Die JUNGHACKER helfen sich dabei untereinander. BetreuerInnen können Hilfestellungen geben.
-
-Der Junghacktreff ist passend für Dich, wenn Du zwischen 10 und 18 Jahren alt bist, und schon erste Erfahrungen im Programmieren gesammelt hast.
-</td>
-</tr>
-<tr >
-
-<td style="padding: 5px; width: 20%; text-align: right;" >ANMELDUNG
-</td>
-
-<td style="padding: 5px; text-align: left;" >nicht notwendig
-</td>
-</tr>
-</tbody>
-</table>
+* unbeschränkt
+* ohne Anmeldung
+* offen für Gäste
