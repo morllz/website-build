@@ -14,16 +14,13 @@ Landsberger Straße 3
 
 Vertreten durch die einzeln vertretungsberechtigten Mitglieder des Vorstands:
 
-Markus Benkenstein  
-Regina Brehm  
-Markus Gragert  
-Daniel Havlik  
-Jens Köster  
-David Rauh  
+Johann Weihe
+Marcus Dannenberg
+Markus Wolfram
 
 Anschrift wie oben  
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
 
-[Aktuelle Satzung](/wp-content/uploads/2020/05/satzung-2019-09.pdf) (Stand: September 2019)  
+[Aktuelle Satzung](/wp-content/uploads/2021/07/satzung-2021-07.pdf) (Stand: Juli 2021)  
   
 Vereinsregister: Amtsgericht Stendal, VR 3085
