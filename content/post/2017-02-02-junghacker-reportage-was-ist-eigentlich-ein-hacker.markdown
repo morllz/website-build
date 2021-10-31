@@ -17,4 +17,4 @@ Wir möchten uns an dieser Stelle auch nochmal ganz herzlich bei Lorenz (fjp med
 
 PS: Wir sind weiterhin auf der Suche nach Helfern/Helferinnen für die kommenden Junghacker-Tage. Alle weiteren Informationen, auch für Teilnehmer.innen auf [https://junghacker.de](https://junghacker.de)
 
-<video><source src="https://eigenbaukombinat.de/2017-01-28_Junghacker.mp4" type="video/mp4"></video>
+<video style="width:100%;"><source src="https://eigenbaukombinat.de/2017-01-28_Junghacker.mp4" type="video/mp4"></video>
