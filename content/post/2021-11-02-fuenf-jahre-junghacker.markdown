@@ -21,7 +21,7 @@ Das Gemeinsachftlich gegründete Projekt durch Hacker *innen im Umfeld von Termi
 
 ### Wie hat das eigentlich alles angefangen?
 Mit einer Website (https://junghacker.de), Plakaten und Flyern an verschiedenen Orten in Halle, sowie Ankündigungen in der lokalen Presse schafften wir es, zur ersten Veranstaltung 10 technikinteressierte Kinder und Jugendliche ab 10 Jahren bei uns zu versammeln.
-Eindrücke von ersten Junghackertag sind unter https://junghacker.de/blog/blog1/ zu finden.
+Eindrücke vom ersten Junghackertag sind unter https://junghacker.de/blog/blog1/ zu finden.
 Das Projekt selbst entwickelte sich schnell zu einem Selbstläufer. Wir hatten meist genug freiwillige Helfer\*innen gefunden, die sich ganz unterschiedlich einbrachten. Vom  Saubermachen bis hin zum Vermitteln von fortgeschrittener Informatik. Auch der allgemeine kreative Umgang mit Technik spielte immer eine große Rolle. Auch unser Anspruch, die Auswirkungen von Technik auf Gesellschaft und Umwelt zu betrachten und vermitteln, kam dabei nicht zu kurz.
 
 
