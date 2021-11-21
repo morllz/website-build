@@ -1,5 +1,10 @@
 ###
-<space></space>
+<space>
+ <noscript><div id="spacestatus" style="font-size:100%;">
+  <span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Your browser does not support JavaScript!</span>
+  </div>
+ </noscript> 
+</space>
 <script type="text/javascript">
 jQuery('<div id="spacestatus" style="font-size:100%;"></div><div style="font-size: 100%; margin-top: 0.5ex; margin-bottom: 2.5ex;" id="spacestatus_sm"></div>').insertBefore(jQuery('space').first())
 jQuery.get('https://eigenbaukombinat.de/status/status.json?' + jQuery.now(), function(resp) {

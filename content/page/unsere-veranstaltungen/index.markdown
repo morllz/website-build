@@ -7,7 +7,12 @@ type: page
 url: /unsere-veranstaltungen/
 ---
 
-<termin></termin>  
+<termin>
+ <noscript><div id="spacestatus" style="font-size:100%;">
+  <span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Your browser does not support JavaScript!</span>
+  </div>
+ </noscript>
+</termin>  
 
 Unsere Termine gibt es auch hier als [iCal](https://kalender.eigenbaukombinat.de/public/public.ics)  
   
