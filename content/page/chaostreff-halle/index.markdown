@@ -22,6 +22,8 @@ Technik, Linux, Netzpolitik, OpenSource, Netzwerke, Server, Cyberspace, Vernetzu
 
 Jeden Dienstag ab 19 Uhr.
 
+Sowohl vor Ort im Eigenbaukombinat als auch online [im Jitsi](https://meet.datenautobahnmeisterei.de/chaostreff-halle).
+
 ### Dauer
 
 Meistens bis 23:42 Uhr.
