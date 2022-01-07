@@ -72,7 +72,11 @@ unsafe= true
   desc = "Garten"
 [[Params.bigimg]]
   src = "img/slider-12.jpg"
+<<<<<<< HEAD
   desc = "Streamingevents"
+=======
+  desc = "Events"
+>>>>>>> b5812db49269cc9900be299aead1b7436fde28c2
 [Author]
   name = ""
   website = "https://eigenbaukombinat.de/"
