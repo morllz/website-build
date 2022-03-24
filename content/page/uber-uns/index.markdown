@@ -7,8 +7,6 @@ type: page
 url: /uber-uns/
 ---
 
-Deutsch - [English](/english/)
-
 Das Eigenbaukombinat in Halle (Saale) ist eine Mitmachwerkstatt - auch bekannt als offene Werkstatt. Das heißt, dass wir als Verein eine mit Werkzeugen und Maschinen ausgestattete Werkstatt betreiben, die von jedem Mitglied gleichberechtigt genutzt werden kann.
 
 Auf dieser Webseite informieren wir unter anderem über [unsere Werkstatt](/werkstatt/), die [Projekte unserer Mitglieder](/categories/fertige-projekte/) und unsere für alle offenen [Veranstaltungen](/unsere-veranstaltungen/).

@@ -7,7 +7,14 @@ type: page
 url: /anfahrt/
 ---
 
-Das Eigenbaukombinat befindet sich in der Landsberger Straße 3 in Halle (Saale) [(OpenStreetMap-Link)](https://www.openstreetmap.org/node/2549267583), das ist eine Seitenstraße der Delitzscher Straße, und eine Parallelstraße zur Freiimfelder Straße. Gleich in der Nähe befindet sich die Straßenbahnhaltestelle "Freiimfelder Straße".
+Das Eigenbaukombinat befindet sich in der 
+
+Landsberger Straße 3  
+06112 Halle (Saale)
+
+[(OpenStreetMap-Link)](https://www.openstreetmap.org/way/95664020)
+
+das ist eine Seitenstraße der Delitzscher Straße, und eine Parallelstraße zur Freiimfelder Straße. Gleich in der Nähe befindet sich die Straßenbahnhaltestelle "Freiimfelder Straße".
 
 Das Gebäude erkennst Du am farbenfrohen Bild:
 

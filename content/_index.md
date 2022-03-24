@@ -1,7 +1,7 @@
 ###
 <space></space>
 
-<noscript><div id="spacestatus" style="font-size:100%;"><span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Your browser does not support JavaScript!</span></div>
+<noscript><div id="spacestatus" style="font-size:100%;"><span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Dein Browser unterstützt kein JavaScript!</span></div>
 </noscript> 
 
 <script type="text/javascript">

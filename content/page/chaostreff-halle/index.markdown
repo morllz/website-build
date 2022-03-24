@@ -6,9 +6,9 @@ title: Chaostreff Halle
 type: page
 url: /chaostreff-halle/
 ---
-
-
+{{< gallery caption-effect="fade" >}}
 {{< figure link="/img/datenknoten.png" >}}
+{{< /gallery >}}
 
 Das Chaostreff Halle ist der regionale Treffpunkt für Interessierte und Mitglieder des [Chaos Computer Club e.V.](https://ccc.de).
 

@@ -73,11 +73,111 @@ unsafe= true
 [[Params.bigimg]]
   src = "img/slider-12.jpg"
   desc = "Streamingevents"
-=======
-  desc = "Events"
+
+[languages]
+  [languages.de]
+    languageName = "Deutsch"
+    weight = "1"
+  [languages.en]
+    languageName = "English"
+    weight = "2"
+    subtitle = "Makespace, Hackspace and workshop in Halle (Saale)"
+[[languages.en.menu.main]]
+    name = "post"
+    url = "post/"
+    weight = 1
+    identifier = "blog"
+
+[[languages.en.menu.main]]
+    name = "post"
+    url = "post/"
+    weight = 1
+    parent = "blog"
+
+[[languages.en.menu.main]]
+    name = "archiv"
+    url = "archiv/"
+    weight = 2
+    parent = "blog"
+
+[[languages.en.menu.main]]
+    name = "category"
+    url = "categories/"
+    weight = 3
+    parent = "blog"
+
+[[languages.en.menu.main]]
+    name = "tags"
+    url = "tags/"
+    weight = 4
+    parent = "blog"
+
+[[languages.en.menu.main]]
+    name = "search"
+    url = "en/page/search/"
+    weight = 5
+    parent = "blog"
+
+[[languages.en.menu.main]]
+    name = "events"
+    url = "our-events/"
+    weight = 2
+
+[[languages.en.menu.main]]
+    name = "about"
+    weight = 3
+    identifier = "uberuns"
+
+[[languages.en.menu.main]]
+    name = "about us"
+    url = "about-us/"
+    weight = 3
+    parent = "uberuns"
+
+[[languages.en.menu.main]]
+    name = "workshop"
+    url = "workshop/"
+    weight = 4
+    parent = "uberuns"
+
+#[[languages.en.menu.main]]
+#    name = "matrix"
+#    url = "/unser-neuer-chat-und-nachrichtenserver/"
+#    weight = 5
+#    parent = "uberuns"
+
+#[[languages.en.menu.main]]
+#    name = "status"
+#    url = "/extstatus/"
+#    weight = 6
+#    parent = "uberuns"
+
+[[languages.en.menu.main]]
+    name = "join us"
+    url = "join-us/"
+    weight = 7
+    parent = "uberuns"
+
+[[languages.en.menu.main]]
+    name = "directions"
+    url = "directions/"
+    weight = 8
+    parent = "uberuns"
+
+[[languages.en.menu.main]]
+    name = "Impressum"
+    url = "impressum/"
+    weight = 9
+    parent = "uberuns"
+
+
+#
+
+
+
 
 [Author]
-  name = ""
+  name = "EBK"
   website = "https://eigenbaukombinat.de/"
   email = "kontakt@eigenbaukombinat.de"
   facebook = "Eigenbaukombinat"

@@ -48,7 +48,7 @@ Außerdem verfügen wir über viele weitere Werkzeuge und Maschinen, wie zum Bei
 
 Weitere Möglichkeiten wie Buchbinden sind in den Startlöchern und werden je nach personellen und finanziellen Möglichkeiten aufgebaut.
 
-Um einen räumlichen Eindruck zu erhalten, kannst du [hier](https://vr.eigenbaukombinat.de/) in die einzelnen digitalisierten Räume schauen **[Stand 2016!]**. Wer den kreativen Freiraum direkt erleben möchte, ist gern zu einem Rundgang im Eingenbaukombinat Halle e.V. direkt vor Ort eingeladen.
+Um einen räumlichen Eindruck zu erhalten, kannst du [hier](https://vr.eigenbaukombinat.de/) in die einzelnen digitalisierten Räume schauen **[Stand 2016!]**. Wer den kreativen Freiraum direkt erleben möchte, ist gern zu einem Rundgang im Eigenbaukombinat Halle e.V. direkt vor Ort eingeladen.
 
 Du möchtest uns weitere Werkzeuge und Maschinen spenden oder leihen? [Kontaktiere uns!](/sachspenden/)
 

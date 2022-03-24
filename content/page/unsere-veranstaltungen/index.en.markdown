@@ -2,19 +2,19 @@
 author: Andrea Thum
 date: 2015-09-20 12:02:53+00:00
 draft: false
-title: Unsere Veranstaltungen
+title: our events
 type: page
-url: /unsere-veranstaltungen/
+url: /en/our-events/
 ---
 
 <termin>
  <noscript><div id="spacestatus" style="font-size:100%;">
-  <span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Dein Browser unterstütze kein JavaScript!</span>
+  <span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Your browser does not support JavaScript!</span>
   </div>
  </noscript>
 </termin>  
 
-Unsere Termine gibt es auch hier als [iCal](https://kalender.eigenbaukombinat.de/public/public.ics)  
+our dates are also here [iCal](https://kalender.eigenbaukombinat.de/public/public.ics)  
   
 
 
