@@ -1,6 +1,6 @@
 ---
 author: nilo
-date: 2021-11-23 12:30:00+00:00
+date: 2022-03-28 12:30:00+00:00
 draft: false
 title: Anpassung der Verhaltensregeln UPDATE 28.03.2022
 type: post

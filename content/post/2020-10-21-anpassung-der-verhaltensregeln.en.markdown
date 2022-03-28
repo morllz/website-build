@@ -1,6 +1,6 @@
 ---
 author: nilo
-date: 2021-11-23 12:30:00+00:00
+date: 2021-03-28 12:30:00+00:00
 draft: false
 title: adapting the behavioral rules UPDATE 28.03.2022
 type: post
@@ -14,6 +14,7 @@ categories:
 
 <!--more-->
 
+## UPDATE 28.03.2022
 ### Access
 
 * The 3-G model (vaccinated or recovered or tested) applies for access to the EBK.
