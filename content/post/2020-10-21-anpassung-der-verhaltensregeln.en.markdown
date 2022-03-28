@@ -2,7 +2,7 @@
 author: nilo
 date: 2021-11-23 12:30:00+00:00
 draft: false
-title: adapting the behavioral rules UPDATE 23.11.2021
+title: adapting the behavioral rules UPDATE 28.03.2022
 type: post
 url: /en/anpassung-der-verhaltensregeln/
 categories:
@@ -16,10 +16,13 @@ categories:
 
 ### Access
 
-* The rooms of the EBK may only enter who is vaccinated or genesis.
-* The vaccination pass, the digital and analog certificates and the digital or analog vaccination certificates apply.
-* The vaccination certificate is controlled by the respective key service or other key-in possessions.
-* Keyholders must report to the Management Board once for the examination of the vaccination or genesis status.
+* The 3-G model (vaccinated or recovered or tested) applies for access to the EBK.
+
+* Vaccinated/Genese in each case with official proof (control by the key service).
+* For the "Tested" status, one of the following points must be fulfilled:
+  * Current test certificate (with negative result), control by the key service.
+  * rapid test on site (with negative result), control by the key service.
+  * Medical reasons that prevent the testing from being carried out
 
 ### Distance / Masks
 
