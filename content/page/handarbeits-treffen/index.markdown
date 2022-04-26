@@ -20,11 +20,11 @@ Wir treffen uns zum Nähen, Stricken, Häkeln, Filzen und mehr im Eigenbaukombin
 
 ### Termin
 
-Jeden Montag in geraden Kalenderwochen ab 19:00 Uhr.
+Jeden Mittwoch in geraden Kalenderwochen ab 18:00 Uhr.
 
 ### Dauer
 
-Etwa 2 Stunden.
+Etwa 2-3 Stunden.
 
 ### Teilnehmen
 
