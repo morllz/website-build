@@ -24,7 +24,7 @@ Jeden Mittwoch in geraden Kalenderwochen ab 18:00 Uhr.
 
 ### Dauer
 
-Etwa 2-3 Stunden.
+Etwa 4 Stunden.
 
 ### Teilnehmen
 
