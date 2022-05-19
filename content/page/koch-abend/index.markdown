@@ -21,7 +21,7 @@ Es wird gemeinsam gekocht und gegessen. Neben der Abwechslung zur sonst im Eigen
 
 Die Kosten werden fair unter den Anwesenden aufgeteilt.
 
-Im Idealfall meldet ihr Euch an, damit die Mengen geplant werden können. In der Regel gibt es einen [Menüvorschlag einige Tage vorher in unserem Blog](/tag/kochabend/). Dort gibt es dann auch den Link zur Anmeldung.
+Im Idealfall meldet ihr Euch an, damit die Mengen geplant werden können. In der Regel gibt es einge Tage vorher einen [Eintrag im Pad](https://pads.eigenbaukombinat.de/SoPv9f96S_SD-0v0Lg62Kw?both). Dort gibt es dann auch Hinweise zur Anmeldung.
 
 ### Termin
 
@@ -29,12 +29,11 @@ Immer am dritten Freitag im Monat.
 
 ### Dauer
 
-Etwa 2-3 Stunden.
+Etwa 3-4 Stunden.
 
 ### Teilnehmen
 
 * Anmeldung erwünscht
-* maximal 15 Personen
 * offen für Gäste
 
 ### Kosten
