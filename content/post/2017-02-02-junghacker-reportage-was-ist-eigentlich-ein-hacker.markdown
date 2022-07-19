@@ -8,6 +8,8 @@ url: /junghacker-reportage-was-ist-eigentlich-ein-hacker/
 categories:
 - JUNGHACKER
 - Veranstaltungen
+tags:
+- Junghacker
 ---
 
 Beim letzten Junghackertag am 28. Januar entstand eine kleine Reportage zum Thema "Hacker". Die beteiligten Kids machten dabei erste Erfahrungen mit Kamera, Ton und Schnitt.

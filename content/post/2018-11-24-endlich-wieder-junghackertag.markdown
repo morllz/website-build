@@ -7,6 +7,8 @@ type: post
 url: /endlich-wieder-junghackertag/
 categories:
 - JUNGHACKER
+tags:
+- Junghacker
 ---
 
 

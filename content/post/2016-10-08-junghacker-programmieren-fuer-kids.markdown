@@ -8,6 +8,8 @@ url: /junghacker-programmieren-fuer-kids/
 categories:
 - JUNGHACKER
 - Veranstaltungen
+tags:
+- Junghacker
 ---
 
 Die aktuelle Herangehensweise der Politik, unter der sogenannten "digitalen Bildung" lediglich den Einsatz moderner Technik als Lehrmittel im Unterricht zu verstehen, geht uns nicht weit genug: Mit fortschreitender "Digitalisierung" wird vor allem ein umfassendes Verständnis solcher Technik und deren Funktionsweise essentiell sein.

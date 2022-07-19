@@ -9,6 +9,8 @@ url: /hackathon-fuer-kids-und-jugendliche-im-eigenbaukombinat-wir-haben-lust-auf
 categories:
 - JUNGHACKER
 - Veranstaltungen
+tags:
+- Junghacker
 ---
 
 Am 22. Oktober fand zum ersten Mal der von uns organisierte Hackathon "JUNGHACKER" für Kids und Jugendliche statt. 10 Teilnehmer, unterstützt von 7 Mentoren, haben in 10 Stunden allerlei Dinge programmiert und dabei kräftig dazugelernt. Und der nächste Termin steht schon fest: 26. November, 10 - 18 Uhr. Anmelden unter [junghacker.de](/junghacker.de).

@@ -8,6 +8,8 @@ url: /live-vom-junghacker-tag/
 categories:
 - JUNGHACKER
 - Veranstaltungen
+tags:
+- Junghacker
 ---
 
 Aktuell läuft wieder unser [Junghackertag](/junghacker.de) im Eigenbaukombinat. Neben selbstgemachtem Nudelsalat zur Verpflegung gibt es wieder viele verschiedene Stationen.
