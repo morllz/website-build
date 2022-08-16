@@ -39,7 +39,7 @@ Folgende Stationen warten auf Euch (Stand 14. August):
 * Weitere Informationen
 
 In den nächsten Wochen werden wir in diesem Blogpost und den sozialen Medien nach und nach alle Mitmachaktionen veröffentlichen. Es lohnt sich ab und zu reinzuschauen, 
-und uns bei [Twitter](https://twitter.com/ebkhalle), [Mastodon](https://chaos.social/@eigenbaukombinat),[Instagram](https://www.instagram.com/ebkhalle/), 
+und uns bei [Twitter](https://twitter.com/ebkhalle), [Mastodon](https://chaos.social/@eigenbaukombinat), [Instagram](https://www.instagram.com/ebkhalle/), 
 [Facebook](https://www.facebook.com/Eigenbaukombinat/) und [Youtube](https://www.youtube.com/channel/UCsfpJrx2csVoioxv6xrCqJA) zu folgen. Wir freuen uns, 
 wenn ihr unsere Ankündigungen dort teilt. :)
 
