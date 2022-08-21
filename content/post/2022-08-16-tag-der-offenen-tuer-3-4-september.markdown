@@ -12,15 +12,15 @@ categories:
 ---
 
 
-Es ist wieder soweit! Nach langer Durststrecke öffnen wir wieder am 3. und 4. September die Türen, und zeigen welche Möglichkeiten 
-für alle Mitglieder zur Verfügung stehen!
+Es ist wieder soweit! Nach langer Durststrecke öffnen wir wieder am 3. und 4. September jeweils von 12-18 Uhr die Türen, und zeigen welche Möglichkeiten 
+für alle Mitglieder im Eigenbaukombinat zur Verfügung stehen!
 
 <!-- more -->
 
 ### Programm
 
 Ob Wollen spinnen, VR-Brille ausprobieren… oder sich an der Drehscheibe mit Ton beschmieren: Wir haben wieder ein vielfältiges Programm für Euch zusammengestellt!
-Folgende Stationen warten auf Euch (Stand 14. August):
+Folgende Stationen warten auf Euch (Stand 21. August):
 
 * Arcade-Machine: Automatenspiele der 80er Jahre.
 * Songwriting: Grundlagen der Musikerstellung
@@ -36,7 +36,8 @@ Folgende Stationen warten auf Euch (Stand 14. August):
 * Riesen-Jenga: Der Spaß für Groß und Klein.
 * Metallskulpturen: Mach flott den Schrott!
 * Kekse + Kuchen: Für das leibliche Wohl ist gesorgt!
-* Weitere Informationen
+* Pixelflut: Im Hackspace könnt Ihr eure Pixel gegeneinander antreten lassen
+* Weitere Informationen und Individuelle Fragen klären wir bei einer Führung durch das Eigenbaukombinat!
 
 In den nächsten Wochen werden wir in diesem Blogpost und den sozialen Medien nach und nach alle Mitmachaktionen veröffentlichen. Es lohnt sich ab und zu reinzuschauen, 
 und uns bei [Twitter](https://twitter.com/ebkhalle), [Mastodon](https://chaos.social/@eigenbaukombinat), [Instagram](https://www.instagram.com/ebkhalle/), 
