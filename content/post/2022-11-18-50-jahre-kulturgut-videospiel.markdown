@@ -41,7 +41,7 @@ Highlight der Ausstellung wird die **Eröffnungsfeier am 25.11.2022 ab 18:00 Uhr
 |---------------|:----------------------------------------------------|
 | 18:00 - 18:10 | Begrüßung |
 | 18:10 - 18:55 | Vortrag Wolfgang “Die Anfänge der Videospiele” |
-| 19:00 - 19:30 | Vortrag David “Moderes Retrogaming” |
+| 19:00 - 19:30 | Vortrag David “Modernes Retrogaming - Neue Hardware für alte Spiele” |
 | 19:30 - 20:00 | Pause / Gamingpause in neuen Räumen |
 | 20:00 - 20:30 | Vortrag Henning “Retrocomputer / Amiga” |
 | 20:30 |Übergang in Retrogamingabend |  
