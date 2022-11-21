@@ -50,7 +50,7 @@ Highlight der Ausstellung wird die **Eröffnungsfeier am 25.11.2022 ab 18:00 Uhr
    
 
 
-Die Ausstellung ist darüber hinaus dauerhaft vom 28.11. bis zum 09.12.2022 wochentags von 13:00 bis 18:00 Uhr geöffnet sowie außerhalb auf Anfrage mit Terminplanung möglich.
+Der Zugang zur Ausstellung ist darüber hinaus vom 26.11. bis zum 11.12.2022 möglich, wochentags dauerhaft offen von 13:00 bis 18:00 Uhr sowie außerhalb auf Anfrage mit Terminplanung.
 
 {{< gallery caption-effect="fade" >}}
 {{< figure link="/wp-content/uploads/2022/11/plakate.jpeg" >}}
