@@ -14,13 +14,13 @@ Wer kennt es nicht - bei Problemen mal schnell eine Frage stellen, bei Projektid
 Nachdem unsere bestehende Lösung auf XMPP-Basis dafür zum einen in die Jahre gekommen ist und zum anderen Aufgrund der schwierigen Zugänglichkeit für nicht-Nerds keine große Verbreitung fand, haben wir uns nach Alternativen umgesehen. Die Lösung dafür lautet: [Matrix](https://de.wikipedia.org/wiki/Matrix_(Kommunikationsprotokoll)). Es handelt sich hierbei um ein noch recht junges Projekt, was sich zum Ziel gesetzt hat, eine datenschutzfreundliche, sichere, dezentrale Alternative zu bestehenden Echtzeit-Kommunikationstools zu sein.
 <!-- more -->
 
-Nach einer längeren Testphase sind wir nun soweit, diesen Service sowohl allen unseren Mitgliedern als auch öffentlich zur Verfügung zu stellen. Um den Einstieg möglichst einfach zu gestalten folgt hier nun eine Anleitung für die App "riot.im", die sowohl für Android/iOS als auch auf dem Desktop für alle verbreiteten Betriebssysteme verfügbar ist. Wer gar nichts installieren möchte, kann [riot.im](https://riot.im/app/#/welcome) auch im Browser benutzen.
+Nach einer längeren Testphase sind wir nun soweit, diesen Service sowohl allen unseren Mitgliedern als auch öffentlich zur Verfügung zu stellen. Um den Einstieg möglichst einfach zu gestalten folgt hier nun eine Anleitung für die App "riot.im", die sowohl für Android/iOS als auch auf dem Desktop für alle verbreiteten Betriebssysteme verfügbar ist. Wer gar nichts installieren möchte, kann [https://app.element.io/#/welcome](https://app.element.io/#/welcome) auch im Browser benutzen.
 
 
 ### Schritt 1 – App installieren und starten /im Browser öffnen
 
 
-Die einfachste Variante ist, im Webbrowser die Adresse [https://riot.im/app](https://riot.im/app) aufzurufen. Wer die installierte App bevorzugt, findet unter [https://about.riot.im](https://about.riot.im/) Links zu den aktuellen Versionen in den entsprechenden App-Stores, bzw. Hinweise und Downloads zu den Desktop-Versionen für die unterschiedlichen Betriebssysteme.
+Die einfachste Variante ist, im Webbrowser die Adresse [https://app.element.io/#/welcome](https://app.element.io/#/welcome) aufzurufen. Wer die installierte App bevorzugt, findet unter [https://element.io/get-started](https://element.io/get-started) Links zu den aktuellen Versionen in den entsprechenden App-Stores, bzw. Hinweise und Downloads zu den Desktop-Versionen für die unterschiedlichen Betriebssysteme.
 
 Ist die App installiert und gestartet, oder im Browser geöffnet, wird man vom Login-Dialog begrüßt.
 
@@ -36,7 +36,7 @@ Die Angabe der zusätzlichen Daten hilft anderen Benutzer*innen, euch im Matrix-
 ##### ... mit der mobilen App
 
 
-Zunächst unten auf "Konto erstellen" tippen. Im nun folgenden Formular die Option **"Benutzerdefinierte Server-Optionen"** wählen und als **"Homeserver URL" /matrix.eigenbaukombinat.de** eingeben. Die Einstellung für den "Identity Server" bleibt wie sie ist.
+Zunächst unten auf "Konto erstellen" tippen. Im nun folgenden Formular die Option **"Benutzerdefinierte Server-Optionen"** wählen und als **"Homeserver URL:" https://matrix.eigenbaukombinat.de** eingeben. Die Einstellung für den "Identity Server" bleibt wie sie ist.
 
 {{< gallery caption-effect="fade" >}}
   {{< figure link="/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-34-30«.png" >}}
@@ -65,7 +65,7 @@ In der Browser-Variante auf "Konto erstellen" klicken. In der Desktop-App verbir
   {{< figure link="/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-38-49«.png" >}}
 {{< /gallery >}}
 
-Im folgenden Formular auf den rechten Kasten (Erweitert /Other) klicken, dann als "Homeserver URL" /matrix.eigenbaukombinat.de eintragen. Die Einstellung für den "Identity Server" bleibt wie sie ist.
+Im folgenden Formular auf den rechten Kasten (Erweitert /Other) klicken, dann als "Homeserver URL:" https://matrix.eigenbaukombinat.de eintragen. Die Einstellung für den "Identity Server" bleibt wie sie ist.
 
 {{< gallery caption-effect="fade" >}}
   {{< figure link="/wp-content/uploads/2019/02/Bildschirmfoto-von-»2019-02-28-19-54-09«.png" >}}
@@ -81,6 +81,6 @@ Nachdem man den Button "Nächstes" geklickt hat, Benutzername, Passwort und Pass
 ### Schritt 3 - Räume betreten, Kommunizieren
 
 
-War die Registrierung erfolgreich, ist man nun schon mit dem Server verbunden und sollte den Raum "sozialraum" sehen. Dies ist der Haupt-Chatraum in den alle neuen Benutzer*innen automatisch hinzugefügt werden.
+War die Registrierung erfolgreich, ist man nun schon mit dem Server verbunden und sollte den Raum [sozialraum](https://matrix.to/#/#sozialraum:matrix.eigenbaukombinat.de) (#sozialraum:matrix.eigenbaukombinat.de) sehen. Dies ist der Haupt-Chatraum in den alle neuen Benutzer*innen automatisch hinzugefügt werden.
 
 Hier endet diese Anleitung, denn die dort schon anwesenden Menschen sind gerne bereit euch bei den weiteren Schritten zu helfen! :)

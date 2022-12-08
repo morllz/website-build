@@ -14,9 +14,9 @@ Landsberger Straße 3
 
 represented by the individual representatives of the Board:
 
-* Johann Weihe
-* Marcus Dannenberg
-* Markus Wolfram
+* Markus Benkenstein
+* Daniel Havlik
+* Daniel Roos
 
 inscription as above 
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
