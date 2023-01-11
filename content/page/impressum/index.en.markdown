@@ -21,8 +21,8 @@ represented by the individual representatives of the Board:
 inscription as above 
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
 
-[Satzung](/wp-content/uploads/2021/07/satzung-2021-07.pdf) (Stand: July 2021)  
+[Bylaws ("Satzung")](/wp-content/uploads/2022/04/satzung-2022-04.pdf) (April 2022)  
 
-[Beitragsordnung](/wp-content/uploads/2017/01/bo_2016_12_15.pdf) (Stand: December 2016)
+[Scale of contributions ("Beitragsordnung")](/wp-content/uploads/2017/01/bo_2016_12_15.pdf) (December 2016)
 
 Vereinsregister: Amtsgericht Stendal, VR 3085
