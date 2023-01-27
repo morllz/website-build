@@ -83,4 +83,6 @@ Nachdem man den Button "Nächstes" geklickt hat, Benutzername, Passwort und Pass
 
 War die Registrierung erfolgreich, ist man nun schon mit dem Server verbunden und sollte den Raum [sozialraum](https://matrix.to/#/#sozialraum:matrix.eigenbaukombinat.de) (#sozialraum:matrix.eigenbaukombinat.de) sehen. Dies ist der Haupt-Chatraum in den alle neuen Benutzer*innen automatisch hinzugefügt werden.
 
-Hier endet diese Anleitung, denn die dort schon anwesenden Menschen sind gerne bereit euch bei den weiteren Schritten zu helfen! :)
+Neben diesem Raum gibt es noch etliche weitere öffentliche Räume auf unserem Server. Um diese zu sehen, clickst du das kleine Icon neben dem Suchfeld (sieht aus wie ein Kompass), und kannst von dort die Räume durchsuchen und betreten. Hinweis: Falls du hier die Räume von matrix.org siehst, hast du deinen Account dort erstellt (Schritt 2 - Registrieren, "Homeserver").
+
+Hier endet diese Anleitung, falls ihr weitere Fragen habt, stellt die gerne den im "Sozialraum" anwesenden Menschen, die sind gerne bereit euch zu helfen! :)
