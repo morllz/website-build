@@ -2,8 +2,6 @@
 
 ## Anleitungen
 
-:::info :::
-
 Grundsätzlich braucht es um die Webseite zu bearbeiten mindestens einen [Github](https://github.com) Account.
 
 Im Folgenden entstehen kurze Anleitungen um mit möglichst einfachen Mitteln und wenigen Vorkenntnissen die Webseite bearbeiten zu können.
