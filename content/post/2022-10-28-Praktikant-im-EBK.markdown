@@ -1,6 +1,6 @@
 ---
 author: jotilux
-date: 2022-10-27 09:00:00+00:00
+date: 2022-10-28 09:00:00+00:00
 draft: false
 title: 'Praktikant im EBK'
 type: post
@@ -20,9 +20,7 @@ Ich studiere im 5. Semester den Bachelor Kultur- und Medienpädagogik an der Hoc
 
 Mein Praktikum geht offiziell bis zu 15.1.2023 und ich habe ganz viel Zeit tolle Dinge von euch zu lernen und ihr habt ganz viel Öffnungszeit um tolle Dinge zu machen.
 
-Sollte ich in der Woche wegen Terminen an der Hochschule oder ähnlichem nicht im EBK sein, würde ich das vorher über Matrix kommunizieren.
-
-Ich freue mich darauf ganz viele von euch kennenzulernen!
+Sollte ich in der Woche wegen Terminen an der Hochschule oder ähnlichem nicht im EBK sein, würde ich das vorher über Matrix kommunizieren. Ich freue mich darauf ganz viele von euch kennenzulernen!
 
 Viele Grüße
 

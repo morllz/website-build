@@ -14,14 +14,14 @@ Landsberger Straße 3
 
 Vertreten durch die einzeln vertretungsberechtigten Mitglieder des Vorstands:
 
-* Johann Weihe
-* Marcus Dannenberg
-* Markus Wolfram
+* Markus Benkenstein
+* Daniel Havlik
+* Daniel Roos
 
 Anschrift wie oben  
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
 
-[Aktuelle Satzung](/wp-content/uploads/2021/07/satzung-2021-07.pdf) (Stand: Juli 2021)  
+[Aktuelle Satzung](/wp-content/uploads/2022/04/satzung-2022-04.pdf) (Stand: April 2022)  
 
 [Aktuelle Beitragsordnung](/wp-content/uploads/2017/01/bo_2016_12_15.pdf) (Stand: Dezember 2016)
 
