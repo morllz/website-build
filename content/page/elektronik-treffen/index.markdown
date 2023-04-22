@@ -75,7 +75,7 @@ Gäste und Besucher sind herzlich willkommen!
 {{< figure link="/wp-content/uploads/2014/05/IMG_70391.jpg" >}}
 {{< /gallery >}}
 
-Fragen per E-Mail an unsere [Mailingliste](https://lists.eigenbaukombinat.de/listinfo/diskussion).
+
 </td>
 </tr>
 <tr >
