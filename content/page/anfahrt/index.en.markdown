@@ -9,6 +9,7 @@ url: /en/directions/
 
 the Eigenbaukombinat is located in the
 
+Eigenbaukombinat Halle e.V.
 Landsberger Straße 3  
 06112 Halle (Saale)
 
