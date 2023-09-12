@@ -16,6 +16,13 @@ für alle Mitglieder im Eigenbaukombinat zur Verfügung stehen!
 
 <!-- more -->
 
+
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2023/09/tdot_timetable.png" >}}
+{{< figure link="/wp-content/uploads/2023/09/flyer2023tdotvorn.png" >}}
+{{< figure link="/wp-content/uploads/2023/09/flyer2023tdothinten.png" >}}
+{{< /gallery >}}
+
 ### Programm
 
 Ob Wollen spinnen, VR-Brille ausprobieren… oder sich an der Drehscheibe mit Ton beschmieren: Wir haben wieder ein vielfältiges Programm für Euch zusammengestellt!
