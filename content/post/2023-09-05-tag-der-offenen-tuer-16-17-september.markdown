@@ -5,6 +5,7 @@ draft: false
 title: 'Tag der offenen Tür am 16. und 17. September 2023'
 type: post
 url: /tdot2023/
+bigimg: [{src: "./wp-content/uploads/2019/09/IMG_4184.jpg"},{src: "./wp-content/uploads/2019/09/IMG_4229_1.jpg"}, {src: "./wp-content/uploads/2019/09/IMG_4220.jpg"}]
 categories:
 - Verein
 - Veranstaltungen
@@ -15,7 +16,6 @@ Es ist wieder soweit! Am 16. und 17. September 2023 jeweils von 12-18 Uhr öffne
 für alle Mitglieder im Eigenbaukombinat zur Verfügung stehen!
 
 <!-- more -->
-
 
 {{< gallery caption-effect="fade" >}}
 {{< figure link="/wp-content/uploads/2023/09/tdot_timetable.png" >}}

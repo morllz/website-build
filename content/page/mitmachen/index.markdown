@@ -13,4 +13,9 @@ Du musst kein Profi sein, um bei uns mitzumachen. Wir haben alle einmal klein an
 
 Wenn du das Eigenbaukombinat selbstständig für eigene und gemeinsame Projekte nutzen möchtest, musst du Mitglied werden. Die Mitgliedschaft kostet im Monat 24 Euro (ermäßigt 18 Euro) und kann mit zwei Wochen Frist zum Ende des Monats gekündigt werden. In unserem [Impressum](/impressum) findest Du unsere Satzung und unsere Beitragsordnung.
 
-Eine Anmeldung kann in der [EKB Online Registrierung](https://mitgliedwerden.eigenbaukombinat.de/) erfolgen.
+Eine Anmeldung kann in der [EBK Online Registrierung](https://mitgliedwerden.eigenbaukombinat.de/) erfolgen.
+
+<ul class="pager main-pager">
+              <li class="">
+                <a href="https://mitgliedwerden.eigenbaukombinat.de/">EBK Online Registrierung &rarr;</a>
+              </li></ul>
