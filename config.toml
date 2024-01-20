@@ -12,6 +12,8 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
+enableRobotsTXT = "true"
+
 
 paginate = 5
 
