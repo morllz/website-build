@@ -179,8 +179,8 @@ unsafe= true
 
 
 [Author]
-  name = "EBK"
-  website = "https://eigenbaukombinat.de/"
+  name = "EBK Impressum"
+  website = "https://eigenbaukombinat.de/impressum"
   email = "kontakt@eigenbaukombinat.de"
   facebook = "Eigenbaukombinat"
   github = "eigenbaukombinat"

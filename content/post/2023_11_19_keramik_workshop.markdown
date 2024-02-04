@@ -2,7 +2,7 @@
 author: suse
 date: 2023-11-19 08:00:00+00:00
 draft: false
-title: 'Florales in der Adventszeit - Keramik Workshop'
+title: 'Keramik Workshop - Florales in der Adventszeit'
 type: post
 url: /keramik-workshop-2023/
 categories:
