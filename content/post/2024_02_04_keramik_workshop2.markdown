@@ -16,4 +16,6 @@ Genug Zeit also um sich auszutoben und Dinge zu entdecken die so nah sind aber o
 
 Wie immer 13€/kg Materialkosten (inkl. Brennen und Glasur) und gern auch eine Spende für das EBK. Glasiert wird spätestens beim nächsten Treffen, einen Monat später am 10.03.2024, oder nach Absprache. Wir freuen uns auf euch.
 
+Gerne mit Anmeldung an: veranstaltungen@eigenbaukombinat.de
+
 <a href="/wp-content/uploads/2024/02/Flyer_Keramiksonntag2_20240204115400.pdf">Flyer Keramiksonntag &rarr;</a>
