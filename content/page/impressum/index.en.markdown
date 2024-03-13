@@ -14,9 +14,11 @@ Landsberger Straße 3
 
 represented by the individual representatives of the Board:
 
-* Markus Benkenstein
-* Daniel Havlik
-* Daniel Roos
+* Danilo Arlt
+* Uwe Flaig
+* Tania Flaig
+* Stephanie Teitge
+
 
 inscription as above 
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)

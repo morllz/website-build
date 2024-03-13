@@ -14,9 +14,10 @@ Landsberger Straße 3
 
 Vertreten durch die einzeln vertretungsberechtigten Mitglieder des Vorstands:
 
-* Markus Benkenstein
-* Daniel Havlik
-* Daniel Roos
+* Danilo Arlt
+* Uwe Flaig
+* Tania Flaig
+* Stephanie Teitge
 
 Anschrift wie oben  
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
