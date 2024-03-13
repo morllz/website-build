@@ -27,7 +27,7 @@ Es gibt Einweisungen in Maschinen und Werkzeug, und die Möglichkeit selbst mit 
 
 ### Termin
 
-Jeden Montag in ungeraden Kalenderwochen ab 19:00 Uhr.
+Jeden Dienstag ab 19:00 Uhr.
 
 ### Dauer
 
