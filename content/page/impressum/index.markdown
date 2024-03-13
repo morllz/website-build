@@ -23,6 +23,6 @@ Anschrift wie oben
 
 [Aktuelle Satzung](/wp-content/uploads/2022/04/satzung-2022-04.pdf) (Stand: April 2022)  
 
-[Aktuelle Beitragsordnung](/wp-content/uploads/2017/01/bo_2016_12_15.pdf) (Stand: Dezember 2016)
+[Aktuelle Beitragsordnung](/wp-content/uploads/2024/01/Beitragsordnung_2023-01-31.pdf) (Januar 2024)
 
 Vereinsregister: Amtsgericht Stendal, VR 3085

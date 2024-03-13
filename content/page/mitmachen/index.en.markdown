@@ -11,7 +11,7 @@ our [workshop](/workshop/) and the exchange of the members among each other make
 
 You don't have to be a pro to join us. we all started small and among our now over a hundred members find an expert for almost every thema who likes to pass on.
 
-If you want to use the self-construction combination for your own and joint projects, you need to become a member. the membership costs 24 euro (reduced 18 euro) in the month and can be cancelled with two weeks to the end of the month. Here you can find our [Satzung](/wp-content/uploads/2020/05/satzung-2019-09.pdf) and our [Beitragsordnung](/wp-content/uploads/2017/01/bo_2016_12_15.pdf).
+If you want to use the self-construction combination for your own and joint projects, you need to become a member. the membership costs 30 euro (reduced 23 euro) in the month and can be cancelled with two weeks to the end of the month. Here you can find our [Satzung](/wp-content/uploads/2020/05/satzung-2019-09.pdf) and our [Aktuelle Beitragsordnung](/wp-content/uploads/2024/01/Beitragsordnung_2023-01-31.pdf) (Januar 2024).
 
 an application can be made in [ebk online registration](https://mitgliedwerden.eigenbaukombinat.de/).
 

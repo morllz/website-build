@@ -23,7 +23,7 @@ Schick uns doch eine [E-Mail](/kontakt/) mit deinem Anliegen oder komm einfach v
 
 **Was sind die Bedingungen für eine Mitgliedschaft?**
 
-Die Mitgliedschaft kostet monatlich zwischen 18 und 24 Euro. Möchtest du Mitglied werden, kannst du einfach zu den [Öffnungszeiten](/oeffnungszeiten/) vorbeikommen.
+Die Mitgliedschaft kostet monatlich zwischen 23 und 30 Euro. Möchtest du Mitglied werden, kannst du einfach zu den [Öffnungszeiten](/oeffnungszeiten/) vorbeikommen.
 
 Eine Kündigung der Mitgliedschaft kann mit zwei Wochen Frist zum Ende jedes Monats erfolgen.
 
