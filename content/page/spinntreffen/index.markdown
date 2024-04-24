@@ -36,6 +36,10 @@ Etwa 2 Stunden.
 * Anzahl unbeschränkt
 * offen für Gäste
 
+### Kontakt
+
+E-Mail: kleine.spinnereien@gmail.com
+
 ### Kosten
 
 Nur Verbrauchskosten (falls zutreffend).
