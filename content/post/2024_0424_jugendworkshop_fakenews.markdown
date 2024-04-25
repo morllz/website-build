@@ -30,7 +30,7 @@ Was erwartet euch:
 * **Gemeinsame Auswertung:**
   Zum Abschluss des Workshops werden wir uns gemeinsam eure Aufnahmen anschauen und auswerten. Wir werden über die Wichtigkeit von Medienkompetenz und kritischem Denken diskutieren, um besser zwischen wahr und falsch unterscheiden zu können.
 
-__Wann:__ 08.06.2024, von 9:00 Uhr bis 16:00 Uhr  
+__Wann:__ 08.06.2024, von 10:00 Uhr bis 16:00 Uhr  
 __Wo:__ Eigenbaukombinat Halle e.V. Landsberger Straße 3 06112 Halle (Saale)  
 __Für wen:__ Jugendliche im Alter von 12 - 18 Jahre  
 __Was ihr braucht:__ Nur eure Neugierde und eure Kreativität! Alle Materialien für den Bau der Kamera obskura werden gestellt.  
@@ -58,6 +58,9 @@ Wir freuen uns darauf, euch beim Workshop zu sehen!
 {{< figure link="/wp-content/uploads/2024/04/2024-04-20_Instagram2.jpg" >}}
 {{< figure link="/wp-content/uploads/2024/04/2024-04-20_Instagram3.jpg" >}}
 {{< /gallery >}}
+
+Hinweise:
+Um allen die Teilnahme zu ermöglichen ist die Veranstaltung für die TeilnehmerInnen kostenlos. Wir bitten dennoch um eine kleine Spende, um dies auch weiterhin aufrecht zu erhalten. Ein Beitrag von ca. 8-10€ deckt unsere Kosten für das Mittagessen sowie die Verbrauchsmaterialien (Löten, 3D-Druck usw.).
 
 Wer uns unterstützen möchte kann auch gern unser Plakat aufhängen:  
 
