@@ -39,7 +39,7 @@ Für Verpflegung ist gesorgt!
 Besondere Wünsche und Hinweise bitte in der Anmeldung angeben.
 
 Wir versprechen euch einen Tag voller Lernen, Spaß und praktischer Erfahrungen!
-Bitte meldet euch bis 31.05.2024 an, da die Plätze begrenzt sind.
+Bitte meldet euch an, da die Plätze begrenzt sind.
 
 <ul class="pager main-pager">
   <li class="">
