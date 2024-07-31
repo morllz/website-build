@@ -14,7 +14,7 @@ __Für Mitglieder:__
 Auf der Startseite ist eine Öffnungsanzeige, an der ihr euch spontan orientieren könnt. Diese wird über den Schlüsseldiensthabenden lokal gesteuert.
 Neben **spontanen** Öffnungszeiten gibt es seit 09/2023 **feste** Öffnungszeiten welche über unseren [Bufdi im EBK](/bufdi-im-ebk/) sowie auch Mitgliedern abgedeckt werden.
 
-* jeden Mittwoch 18 - 20 Uhr
+* jeden Mittwoch 18:30 - 21 Uhr
 * jeden Donnerstag 16 - 22Uhr
 * jeden Freitag 16 - 22 Uhr
 

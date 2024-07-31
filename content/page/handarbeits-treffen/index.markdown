@@ -20,7 +20,7 @@ Wir treffen uns zum Nähen, Stricken, Häkeln, Filzen und mehr im Eigenbaukombin
 
 ### Termin
 
-Jeden Mittwoch in geraden Kalenderwochen ab 18:00 Uhr.
+Jeden Mittwoch in geraden Kalenderwochen ab 18:30 Uhr.
 
 ### Dauer
 
