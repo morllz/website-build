@@ -22,3 +22,34 @@ resp['closetime'] +' o\'clock ');
 };
 });
 </script>
+
+<termin>
+ <noscript><div id="spacestatus" style="font-size:100%;">
+  <span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Your browser does not support JavaScript!</span>
+  </div>
+ </noscript>
+</termin>
+
+<script type="text/javascript">
+jQuery('<div id="termin" ></div>').insertBefore(jQuery('termin').first())
+jQuery.get('https://eigenbaukombinat.de/api/kalender', function(resp) {
+var json = '';
+for(var i = 0; i < 3; i++){
+  //url verlinken, wenn vorhanden
+  if (resp[i].url) {
+    summary = '<a href="'+resp[i].url+'">'+resp[i].summary+'</a>';
+  } else {
+    summary = resp[i].summary;
+  }
+  //enddate nur anzeigen, wenn != startdate
+  if (resp[i].startdate != resp[i].enddate) {
+    enddate = ' '+resp[i].enddate;
+  } else {
+    enddate = '';
+  }
+json = json + resp[i].startdate + ' ' + resp[i].starttime + ' –' +  enddate + ' ' + resp[i].endtime + ' ' +  summary+ '<br/>'
+
+  };
+  jQuery('#termin').html('<span padding:3px 5px 3px 5px; border-radius:4px; display:inline-block;"><span id="termin">' + json + '</span></span>');
+});
+</script>
