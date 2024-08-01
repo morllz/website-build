@@ -137,6 +137,12 @@ unsafe= true
     parent = "uberuns"
 
 [[languages.en.menu.main]]
+    name = "Opening"
+    url = "opening/"
+    weight = 3
+    parent = "uberuns"
+
+[[languages.en.menu.main]]
     name = "workshop"
     url = "workshop/"
     weight = 4
@@ -257,6 +263,12 @@ unsafe= true
 [[menu.main]]
     name = "Über uns"
     url = "uber-uns/"
+    weight = 3
+    parent = "uberuns"
+    
+[[menu.main]]
+    name = "Öffnungszeiten"
+    url = "oeffnungszeiten/"
     weight = 3
     parent = "uberuns"
 
