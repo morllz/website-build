@@ -38,6 +38,6 @@ for(var i = 0; i < 25; i++){
 json = json + '<tr><td>' + resp[i].startdate + '</td><td>' + resp[i].starttime + '</td><td> - </td><td>' +  resp[i].enddate + '</td><td>' + resp[i].endtime + '</td><td>' +  summary + '</td></tr>'
 
   };
-  jQuery('#termin').html('<span padding:3px 5px 3px 5px; border-radius:4px; display:inline-block;"><span id="termin"><table cellspacing="0" cellpadding="0">' + json + '</table></span></span>');
+  jQuery('#termin').html('<span padding:3px 5px 3px 5px; border-radius:4px; display:inline-block;"><span id="termin"><table cellspacing="0" cellpadding="0" border="0">' + json + '</table></span></span>');
 });
 </script>
