@@ -131,14 +131,14 @@ unsafe= true
     identifier = "uberuns"
 
 [[languages.en.menu.main]]
-    name = "Opening"
-    url = "opening/"
+    name = "about us"
+    url = "about-us/"
     weight = 3
     parent = "uberuns"
 
 [[languages.en.menu.main]]
-    name = "about us"
-    url = "about-us/"
+    name = "Opening"
+    url = "opening/"
     weight = 3
     parent = "uberuns"
 
