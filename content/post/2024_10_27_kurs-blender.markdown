@@ -23,6 +23,10 @@ tags:
 
 ---
 
+{{< gallery caption-effect="fade" >}}
+{{< figure link="/wp-content/uploads/2024/10/kurs-blender-2024.jpg" >}}
+{{< /gallery >}}
+
 Hallo Ihr Lieben,
 
 auf mehrfacher Nachfrage werde ich schon bald wieder einen Blenderkurs organiseren.
@@ -101,7 +105,4 @@ Ich freue mich auf vielseitiges Erscheinen und das gemeinsame Lernen mit euch. :
 Liebe Grüße
 Uwe
 
-{{< gallery caption-effect="fade" >}}
-{{< figure link="/wp-content/uploads/2024/10/kurs-blender-2024.jpg" >}}
-{{< /gallery >}}
 
