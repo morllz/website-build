@@ -42,6 +42,8 @@ Download: https://www.blender.org/
 - Für 3D Künstler/Artisten
 - Für Leute die einfach in 3D einsteigen wollen
 
+Der Kurs wird **auch** für nicht Leute **angeboten** die **nicht Mitglied im Eigenbaukombinat** sind. Wer also Leute kennt die Interesse haben: **Bitte gleich mit anmelden! =)**
+
 ## Was brauche ich um mitzumachen?
 
 - Optimal: Ein Leistungsfähiger Laptop mit guter Grafikarte
