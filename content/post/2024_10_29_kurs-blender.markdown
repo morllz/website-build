@@ -1,6 +1,6 @@
 ---
 author: Soelen / Uwe Sölen Flaig
-date: 2024-10-27 13:37:00+00:00
+date: 2024-10-29 15:30:00+00:00
 draft: false
 title: 'Blenderkurs 2024'
 type: post
