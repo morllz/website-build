@@ -98,7 +98,7 @@ Tag 1 besteht aus folgenden Sektionen:
 
 ## Wo kann ich mich anmelden?
 
-Anmelden könnt ihr euch unter: https://pads.eigenbaukombinat.de/s/kurs-blender-2024
+Anmelden könnt ihr euch unter: https://pads.eigenbaukombinat.de/kurs-blender-2024
 
 Ich freue mich auf vielseitiges Erscheinen und das gemeinsame Lernen mit euch. :)
 
