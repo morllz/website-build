@@ -11,7 +11,13 @@
              <ul class="pager main-pager">
               <li class="">
                 <a href="/mitmachen/">Mitmachen! / join us! &rarr;</a>
-              </li></ul>
+              </li>
+              <li class="">
+                <a href="/oeffnungszeiten/">Öffnungszeiten &rarr;</a>
+              </li>
+
+
+</ul>
         <div class="posts-list">
           {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
           {{ range $pag.Pages }}
