@@ -29,11 +29,11 @@ tags:
 
 Hallo Ihr Lieben,
 
-auf mehrfacher Nachfrage werde ich schon bald wieder einen Blenderkurs organiseren.
+auf vielfachen Wunsch werde ich bald wieder einen Blender-Kurs anbieten!
 
 ## Was ist Blender?
 
-Blender ist eine betriebssystemunabhängige 3D-Grafiksoftware mit welcher sich Körper modellieren, texturieren und animieren lassen. Diese können in Grafiken, Animationen und Software angewendet werden. 
+Blender ist eine plattformunabhängige 3D-Grafiksoftware, mit der Sie Objekte modellieren, texturieren und animieren können. Diese Kreationen lassen sich in Grafiken, Animationen und Softwareprojekten einsetzen.
 
 Mehr infos unter: https://de.wikipedia.org/wiki/Blender_(Software)
 
@@ -41,58 +41,57 @@ Download: https://www.blender.org/
 
 ## Für wen ist der Kurs?
 
-- Für Leute die mit dem 3D Drucker komplexe Formen drucken wollen
+- Für alle, die komplexe Formen für den 3D-Druck erstellen möchten
 - Für Spielentwickler
-- Für 3D Künstler/Artisten
-- Für Leute die einfach in 3D einsteigen wollen
+- Für 3D-Künstler und Designer
+- Für Einsteiger, die in die Welt der 3D-Grafik eintauchen wollen
 
-Der Kurs wird **auch** für nicht Leute **angeboten** die **nicht Mitglied im Eigenbaukombinat** sind. Wer also Leute kennt die Interesse haben: **Bitte gleich mit anmelden! =)**
+Der Kurs steht **auch** Nicht-Mitgliedern des Eigenbaukombinats offen. Wenn ihr Freunde oder Bekannte kennt, die Interesse haben, meldet sie gerne gleich mit an! 😊
 
-## Was brauche ich um mitzumachen?
+## Was benötige ich für die Teilnahme?
 
-- Optimal: Ein Leistungsfähiger Laptop mit guter Grafikarte
-- Alternativ: Könnt ihr natürlich euren PC + Bildschirm mitnehmen wenn Ihr die Arbeit machen wollt alles mitzunehmen
-- Computermaus
-- Ggf. eine Tastatur mit Zifferblock (manche Laptop Tastaturen besitzen z.B. keine, für Blender ist der Zifferblock mehr oder weniger essentiell)
+- Idealerweise einen leistungsstarken Laptop mit guter Grafikkarte
+- Alternativ könnt ihr euren PC mit Bildschirm mitbringen, falls ihr lieber an eurem eigenen Setup arbeiten wollt
+- Eine Computermaus
+- Gegebenenfalls eine Tastatur mit Ziffernblock (einige Laptops haben keinen Ziffernblock, der für Blender wichtig ist)
 
 ## Wann findet der Kurs statt?
 
-Da Blender eine ziemlich mächtige Software ist findet der Kurs findet an 2 Tagen statt:
+Da Blender eine umfassende Software ist, wird der Kurs an zwei Tagen durchgeführt:
 
 - Samstag den 23. November ab 14:00 Uhr
 - Sonntag den 24. November ab 14:00 Uhr
 
-## Was genau wird in den Blender Kursen durchgenommen?
+## Was wird im Kurs behandelt?
 
-- In den unten genannten Sektionen findet Ihr ein grober Plan wie die 2 Tage verlaufen werden
-- Je nach Teilnehmeranzahl werden manche Sektionen länger oder kurzer dauern 
-- Ich werde über die Tage / Wochen den Plan für den Kurs auch leicht anpassen
-- Randnotiz: Wir versuchen an dem Tag / den Tag davor auch ein Einführungskurs in 3D Druck zu organisieren um leute die mit Blender 3D Drucken wollen einzugliedern
+### Vorweg
+
+- Je nach Teilnehmerzahl können bestimmte Abschnitte länger oder kürzer dauern.
+- Ich werde den Kursplan in den kommenden Tagen und Wochen möglicherweise leicht anpassen.
+- Hinweis: Wir planen, am selben Tag oder am Tag zuvor auch einen Einführungskurs in den 3D-Druck anzubieten, um Interessierten den Einstieg in 3D Druck mit Blender zu erleichtern.
 
 ### Tag 1
 
-Tag 1 besteht aus folgenden Sektionen:
+- Kurze Geschichtseinführung in Blender (10 Min)
+- Das Interface von Blender (20 Min)
+- Global Space vs. Local Space (10 Min)
+- Shortcuts mit Cheat Sheet (30 Min)
+- Modifiers (20 Min)
+- Anorganisches Modellieren mit Vorgabe (45 Min)
+- Anorganisches Modellieren ohne Vorgabe (60 Min)
+- Organisches Modellieren mit Sculpt (90 Min)
+- Modelle für den 3D-Druck erstellen (30 Min)
 
-- Sehr kurze Geschichtseinführung von Blender (10min)
-- Das Interface von Blender (20min)
-- Global Space Local Space (10min)
-- Shortcuts mit Cheat Sheet (30min)
-- Modifiers (20min)
-- Wir modellieren Anorganisch mit Vorgabe (45min)
-- Wir modellieren Anorganisch ohne Vorgabe (60min)
-- Wir modellieren Organisch mit Sculpt (90min)
-- Wie erstellt man ein Model für den 3D Druck (30min)
-
-**Gesamt: 4 Stunden und 15 Minuten**
+**Gesamtdauer: 4 Stunden und 15 Minuten**
 
 ### Tag 2
 
-- Licht und Schatten (60min)
-- Materialien und Shading (60min)
-- Rendern (60min)
-- Animationen? (30min)
-- Rigging (30min)
-- Programmieren mit Blender (30min)
+- Licht und Schatten (60 Min)
+- Materialien und Shading (60 Min)
+- Rendern (60 Min)
+- Animationen (30 Min)
+- Rigging (30 Min)
+- Programmieren mit Blender (30 Min)
 
 **Gesamt: 4 Stunden und 30 Minuten**
 
@@ -100,7 +99,7 @@ Tag 1 besteht aus folgenden Sektionen:
 
 Anmelden könnt ihr euch unter: https://pads.eigenbaukombinat.de/kurs-blender-2024
 
-Ich freue mich auf vielseitiges Erscheinen und das gemeinsame Lernen mit euch. :)
+Ich freue mich auf zahlreiche Teilnehmende und auf ein spannendes Lernen gemeinsam mit euch! :)
 
 Liebe Grüße
 Uwe
