@@ -7,6 +7,10 @@ type: post
 url: /jugendworkshop-2024-06-fake-news/
 categories:
   - Veranstaltungen
+tags:
+- Veranstaltung
+- junghacker
+
 ---
 
 Liebe Jugendliche,

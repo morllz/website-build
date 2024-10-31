@@ -7,6 +7,9 @@ type: post
 url: /keramik-workshop-04-2024/
 categories:
   - Veranstaltungen
+tags:
+- Veranstaltung
+- Keramik
 ---
 
 Keramik Sonntag - mit dem Schwerpunkt Alltagshelden

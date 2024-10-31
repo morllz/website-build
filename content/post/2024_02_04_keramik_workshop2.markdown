@@ -7,6 +7,9 @@ type: post
 url: /keramik-workshop-02-2024/
 categories:
   - Veranstaltungen
+tags:
+- Veranstaltung
+- Keramik
 ---
 
 … wieder ein Sonntag um dem guten Ton näher zu kommen. Dieses mal mit dem Fokus Strukturen und strukturgebende Mittel. Ob in Form gebunden oder für sich stehend, ob an-geritzt, durch- und auf-gedrückt, ab-gerollt, mit Hilfsmittel geformt. Strukturen können mit einfachen und alltäglichen Mitteln entstehen und doch so spannend wirken.

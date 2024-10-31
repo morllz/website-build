@@ -7,6 +7,9 @@ type: post
 url: /keramik-workshop-03-2024/
 categories:
   - Veranstaltungen
+tags:
+- Veranstaltung
+- Keramik
 ---
 
 Keramik Sonntag - mit dem Schwerpunkt Tiere

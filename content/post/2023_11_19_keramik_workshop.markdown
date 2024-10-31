@@ -7,6 +7,9 @@ type: post
 url: /keramik-workshop-2023/
 categories:
   - Veranstaltungen
+tags:
+- Veranstaltung
+- Keramik
 ---
 
 Florales in der Adventszeit

@@ -9,6 +9,8 @@ categories:
 - Veranstaltungen
 tags:
 - Veranstaltung
+- junghacker
+
 ---
 
 # Von Hacker\*in zu Hacker\*in
