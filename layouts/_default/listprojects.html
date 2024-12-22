@@ -26,7 +26,7 @@
         {{end}}
         <div class="posts-list">
             {{ $p := where site.RegularPages "Type" "post" }}
-            {{ $p = where $p "Params.categories" "intersect" (slice "Projekt-junghackerin") }}
+            {{ $p = where $p "Params.categories" "intersect" (slice .Params.Project) }}
             {{ $p = where $p "Params.unlisted" "ne" true }}
             {{ range $p }}
             {{ if ne .Title "Posts" }} 

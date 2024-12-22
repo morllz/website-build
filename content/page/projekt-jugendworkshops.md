@@ -5,7 +5,8 @@ draft: false
 title: Jugendworkshops
 type: page
 url: /jugendworkshops/
-layout: "listprojects-junghackerin"
+layout: "listprojects"
+project: "Projekt-junghackerin"
 categories:
 - Projekt-junghackerin
 ---
