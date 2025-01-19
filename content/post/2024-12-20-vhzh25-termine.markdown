@@ -31,10 +31,10 @@ Zu der Veranstaltung kannst du auch gerne eine Erwachsene Person mitbringen.
 ### 15.02.2025 Hack and Glow: Wir löten und Nähen Schmuck und upgraden unsere Klamotten
 
 In unserem Workshop Hack & Glow tauchen wir gemeinsam mit Jana und Krissi in die spannende Welt von Technik, 3D-Druck, Textil und Schmuck ein. Zusammen setzen wir kreative Projekte um, bei denen ihr eure Ideen zum Leuchten bringt. Ihr lernt, wie man LEDs zum Leuchten bringt, sei es als coole Wearable, das ihr in Kleidung einnäht oder in Schmuck integriert, oder als Teil eines selbst gestalteten 3D-Modells, das wir drucken. Außerdem zeigen wir euch die Basics im Löten und Nähen. Natürlich sind eure eigenen Ideen herzlich willkommen – wir helfen euch dabei, sie umzusetzen! Für den Workshop braucht ihr keine Vorkenntnisse – nur Lust, Neues auszuprobieren. Wir freuen uns darauf, mit euch zu hacken und zu "glowen”!
-
+Der Workshop ist von 9:00 - 16 Uhr geplant.
 <ul class="pager main-pager">
               <li class="">
-                <a href="https://tickets.eigenbaukombinat.de/ebk/vhzh25-02/" target="_blank">zur Anmeldung, offen ab 18.01.2025 &rarr;</a>
+                <a href="https://tickets.eigenbaukombinat.de/ebk/vhzh25-02/" target="_blank">zur Anmeldung &rarr;</a>
               </li>
 </ul>
 
@@ -58,7 +58,7 @@ Krissy kommt nochmal zu uns und wir bringen deine Pflanze mit ein paar verrückt
 
 <ul class="pager main-pager">
               <li class="">
-                <a href="https://tickets.eigenbaukombinat.de/control/event/ebk/vhzh25-05/" target="_blank">zur Anmeldung, offen ab 03.04.2025 &rarr;</a>
+                <a href="https://tickets.eigenbaukombinat.de/ebk/vhzh25-05/" target="_blank">zur Anmeldung, offen ab 03.04.2025 &rarr;</a>
               </li>
 </ul>
 
@@ -69,7 +69,7 @@ Mit CoSpaces wollen wir abtauchen in die wunderbare Welt der virtuellen Realtit�
 
 <ul class="pager main-pager">
               <li class="">
-                <a href="https://tickets.eigenbaukombinat.de/ebk/vhzh25-02-2/" target="_blank">zur Anmeldung, offen ab 17.05.2025 &rarr;</a>
+                <a href="https://tickets.eigenbaukombinat.de/ebk/vhzh25-02-2/" target="_blank">zur Anmeldung, offen ab 17.04.2025 &rarr;</a>
               </li>
 </ul>
 ---
