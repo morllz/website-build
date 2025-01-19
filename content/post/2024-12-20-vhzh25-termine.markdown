@@ -39,17 +39,6 @@ In unserem Workshop Hack & Glow tauchen wir gemeinsam mit Jana und Krissi in die
 </ul>
 
 ---
-### 23.02.2025 Spiele programmieren. In 3D!
-
-Mit CoSpaces wollen wir abtauchen in die wunderbare Welt der virtuellen Realtität und gemeinsam ein Spiel erfinden und programmieren. Keine Sorge, das klingt komplizierter als es ist. Henrike wird euch und uns dabei begleiten.
-
-<ul class="pager main-pager">
-              <li class="">
-                <a href="https://tickets.eigenbaukombinat.de/ebk/vhzh25-02-2/" target="_blank">zur Anmeldung, offen ab 23.01.2025 &rarr;</a>
-              </li>
-</ul>
-
----
 ### 05.04.2025 Ein Klavier. Aber aus Bananen. Wir bauen Musikinstrumente und andere lustige Dinge mit allem, was wir so finden.
 
 Du wolltest schon immer mal ein Klavier aus Obst bauen, oder deine Computerspielefigur mit Knete steuern, dann ist dieser Workshop genau der richtige für dich!
@@ -63,14 +52,28 @@ Henrike kommt nochmal vorbei und wird mit uns und den MakeyMakeys rumspielen.
 </ul>
 
 ---
-### Mai 2025: Meine Pflanze flucht! Wenn du deinen grünen Daumen digitalisieren möchtest.
+### 03.05.2025: Meine Pflanze flucht! Wenn du deinen grünen Daumen digitalisieren möchtest.
 
 Krissy kommt nochmal zu uns und wir bringen deine Pflanze mit ein paar verrückten Bauteilen, etwas Konfetti-Code und deiner eigenen Kreativität zum Sprechen. Mit diesem selbstgebauten Gadget kann sie dir dann ganz von selbst sagen, dass sie Wasser braucht.
 
-**Anmeldung offen ab Anfang April.**
+<ul class="pager main-pager">
+              <li class="">
+                <a href="https://tickets.eigenbaukombinat.de/control/event/ebk/vhzh25-05/" target="_blank">zur Anmeldung, offen ab 03.04.2025 &rarr;</a>
+              </li>
+</ul>
 
 ---
-Die Workshops sind von **ca. 10:00 bis 16:00 Uhr** geplant. Die genauen Uhrzeiten geben wir noch rechtzeitig bekannt.
+### 17.05.2025 Spiele programmieren. In 3D!
+
+Mit CoSpaces wollen wir abtauchen in die wunderbare Welt der virtuellen Realtität und gemeinsam ein Spiel erfinden und programmieren. Keine Sorge, das klingt komplizierter als es ist. Henrike wird euch und uns dabei begleiten.
+
+<ul class="pager main-pager">
+              <li class="">
+                <a href="https://tickets.eigenbaukombinat.de/ebk/vhzh25-02-2/" target="_blank">zur Anmeldung, offen ab 17.05.2025 &rarr;</a>
+              </li>
+</ul>
+---
+Die Workshops sind von **ca. 10:00 bis 16:00 Uhr** geplant. Die genauen Uhrzeiten geben wir bei der Ticket-Bestellung an.
 
 
 **Was sonst noch wichtig ist:**
