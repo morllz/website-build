@@ -1,55 +1,111 @@
 ###
-<space></space>
+<div id="space">Lade Daten...
+  <noscript>
+    <div id="spacestatus" style="font-size:100%;">
+      <span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Dein Browser unterstützt kein JavaScript!</span>
+    </div>
+ </noscript> 
+</div>
 
-<noscript><div id="spacestatus" style="font-size:100%;"><span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Dein Browser unterstützt kein JavaScript!</span></div>
-</noscript> 
-
-<script type="text/javascript">
-jQuery('<div id="spacestatus" style="font-size:100%;"></div><div style="font-size: 100%; margin-top: 0.5ex; margin-bottom: 2.5ex;" id="spacestatus_sm"></div>').insertBefore(jQuery('space').first());
-jQuery.get('https://eigenbaukombinat.de/status/status.json?' + jQuery.now(), function(resp) {
-
-if (resp['state']['open']) {
-   jQuery('#spacestatus').html('<span style="color:#f2f2f2; background-color:#5cb85c; padding:3px 5px 3px 5px; border-radius:4px; display:inline-block;">Das Eigenbaukombinat ist <span id="howlong"></span> offen</span>');
-
-jQuery.get('https://eigenbaukombinat.de/status/openuntil.json?' + jQuery.now(), function(resp) {
-  if (resp['closetime'] != null) {
-      jQuery('#howlong').html(' bis mindestens '+ 
-resp['closetime'] +' Uhr ');
+<script>
+  async function loadDataStatus() {
+  try {
+    const dataresponse = await fetch('https://eigenbaukombinat.de/status/status.json');
+    if (!dataresponse.ok) {
+      throw new Error('Netzwerkantwort war nicht ok');
+    }
+    const data = await dataresponse.json();
+    updateContentStatus(data);
+  } catch (error) {
+     console.error('Fehler beim Laden der JSON-Daten: ', error);
+     }
   }
- });
- } else {
-    jQuery('#spacestatus').html('<span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Das Eigenbaukombinat ist gerade geschlossen.</span>');
-};
-});
+
+  function updateContentStatus(data) {
+    const contentDiv = document.getElementById('space');
+    if (data['state']['open']) {
+    var json = '';
+    json = `<span style="color:#f2f2f2; background-color:#5cb85c; padding:3px 5px 3px 5px; border-radius:4px; display:inline-block;">Das Eigenbaukombinat ist <span id="howlong"></span> offen</span>`;
+  } else {
+    json = '<span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Das Eigenbaukombinat ist gerade geschlossen.</span>';
+  };
+  contentDiv.innerHTML = `${json}`;
+  };
+
+  async function loadDataHowlong() {
+  try {
+    const dataresponse = await fetch('https://eigenbaukombinat.de/status/openuntil.json');
+    if (!dataresponse.ok) {
+      throw new Error('Netzwerkantwort war nicht ok');
+    }
+    const data = await dataresponse.json();
+    updateContentHowlong(data);
+  } catch (error) {
+     console.error('Fehler beim Laden der JSON-Daten: ', error);
+     }
+  }
+
+ function updateContentHowlong(data) {
+    const contentDiv = document.getElementById('howlong');
+    if (data['closetime'] != null) {
+      json = ' bis mindestens ' +  data.closetime + ' Uhr ';
+  };
+  contentDiv.innerHTML = `${json}`; 
+  };
+
+  loadDataStatus();
+  setInterval(loadDataStatus, 10000);
+  loadDataHowlong();
+  setInterval(loadDataHowlong, 10000);
+
 </script>
 
-<termin>
- <noscript><div id="spacestatus" style="font-size:100%;">
-  <span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Dein Browser unterstütze kein JavaScript!</span>
-  </div>
- </noscript>
-</termin>
+<div id="termine">Lade Daten...
+  <noscript><div id="spacestatus" style="font-size:100%;">
+    <span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Your browser does not support JavaScript!</span>
+    </div>
+  </noscript>
+</div>
 
-<script type="text/javascript">
-jQuery('<div id="termin" ></div>').insertBefore(jQuery('termin').first())
-jQuery.get('https://eigenbaukombinat.de/api/kalender', function(resp) {
-var json = '';
-for(var i = 0; i < 3; i++){
+Unsere Termine gibt es auch hier als [iCal](https://kalender.eigenbaukombinat.de/public/public.ics)
+
+<script>
+  async function loadDatatermine() {
+  try {
+    const dataresponse = await fetch('https://eigenbaukombinat.de/api/kalender/');
+    if (!dataresponse.ok) {
+      throw new Error('Netzwerkantwort war nicht ok');
+    }
+    const data = await dataresponse.json();
+    updateContent(data);
+  } catch (error) {
+     console.error('Fehler beim Laden der JSON-Daten: ', error);
+     }
+  }
+
+  function updateContent(data) {
+    const contentDiv = document.getElementById('termine');
+    var json = '';
+    for(var i = 0; i < 3; i++){
   //url verlinken, wenn vorhanden
-  if (resp[i].url) {
-    summary = '<a href="'+resp[i].url+'">'+resp[i].summary+'</a>';
+    if (data[i].url) {
+    summary = '<a href="'+data[i].url+'">'+data[i].summary+'</a>';
   } else {
-    summary = resp[i].summary;
+    summary = data[i].summary;
   }
   //enddate nur anzeigen, wenn != startdate
-  if (resp[i].startdate != resp[i].enddate) {
-    enddate = ' '+resp[i].enddate;
+  if (data[i].startdate != data[i].enddate) {
+    enddate = ' '+data[i].enddate;
   } else {
     enddate = '';
   }
-  json = json + '' + resp[i].startdate +  ' ' + resp[i].starttime + ' - ' +  resp[i].enddate + ' ' + resp[i].endtime + ' ' +  summary + '</br>'
+json = json + '' + data[i].startdate + ' ' + data[i].starttime + ' - ' +  data[i].enddate + ' ' + data[i].endtime + ' ' +  summary + '</br>'
 
   };
-  jQuery('#termin').html('<span padding:3px 5px 3px 5px; border-radius:4px; display:inline-block;"><span id="termin">' + json + '</span></span>');
-});
+    contentDiv.innerHTML = `${json}`;   
+  }
+ 
+  loadDatatermine();
+  setInterval(loadDatatermine, 15000);
+
 </script>
