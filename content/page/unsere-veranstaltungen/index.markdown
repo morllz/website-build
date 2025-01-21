@@ -7,37 +7,52 @@ type: page
 url: /unsere-veranstaltungen/
 ---
 
-<termin>
- <noscript><div id="spacestatus" style="font-size:100%;">
-  <span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Dein Browser unterstütze kein JavaScript!</span>
-  </div>
- </noscript>
-</termin>  
+<div id="termine">Lade Daten...
+  <noscript><div id="spacestatus" style="font-size:100%;">
+    <span style="color:#f2f2f2; background-color:#f0ad4e; padding:3px 5px 3px 5px; border-radius:4px;display:inline-block;">Dein Browser unterstütze kein JavaScript!</span>
+    </div>
+  </noscript>
+</div>
 
-Unsere Termine gibt es auch hier als [iCal](https://kalender.eigenbaukombinat.de/public/public.ics)  
-  
+Unsere Termine gibt es auch hier als [iCal](https://kalender.eigenbaukombinat.de/public/public.ics)
 
+<script>
+  async function loadDatatermine() {
+  try {
+    const dataresponse = await fetch('https://eigenbaukombinat.de/api/kalender/');
+    if (!dataresponse.ok) {
+      throw new Error('Netzwerkantwort war nicht ok');
+    }
+    const data = await dataresponse.json();
+    updateContent(data);
+  } catch (error) {
+     console.error('Fehler beim Laden der JSON-Daten: ', error);
+     }
+  }
 
-<script type="text/javascript">
-jQuery('<div id="termin" ></div>').insertBefore(jQuery('termin').first())
-jQuery.get('https://eigenbaukombinat.de/api/kalender', function(resp) {
-var json = '';
-for(var i = 0; i < 25; i++){
+  function updateContent(data) {
+    const contentDiv = document.getElementById('termine');
+    var json = '';
+    for(var i = 0; i < 25; i++){
   //url verlinken, wenn vorhanden
-  if (resp[i].url) {
-    summary = '<a href="'+resp[i].url+'">'+resp[i].summary+'</a>';
+    if (data[i].url) {
+    summary = '<a href="'+data[i].url+'">'+data[i].summary+'</a>';
   } else {
-    summary = resp[i].summary;
+    summary = data[i].summary;
   }
   //enddate nur anzeigen, wenn != startdate
-  if (resp[i].startdate != resp[i].enddate) {
-    enddate = ' '+resp[i].enddate;
+  if (data[i].startdate != data[i].enddate) {
+    enddate = ' '+data[i].enddate;
   } else {
     enddate = '';
   }
-json = json + '' + resp[i].startdate + ' ' + resp[i].starttime + ' - ' +  resp[i].enddate + ' ' + resp[i].endtime + ' ' +  summary + '</br>'
+json = json + '' + data[i].startdate + ' ' + data[i].starttime + ' - ' +  data[i].enddate + ' ' + data[i].endtime + ' ' +  summary + '</br>'
 
   };
-  jQuery('#termin').html('<span padding:3px 5px 3px 5px; border-radius:4px; display:inline-block;"><span id="termin">' + json + '</span></span>');
-});
+    contentDiv.innerHTML = `${json}`;   
+  }
+  
+  loadDatatermine();
+  setInterval(loadDatatermine, 15000);
+
 </script>
