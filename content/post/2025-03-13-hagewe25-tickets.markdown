@@ -57,7 +57,7 @@ Weitere **wichtige Hinweise**:
   
 **Wann?** 2025-04-11T19:00+02:00 (MESZ) bis 2025-04-13T14:00+02:00 (MESZ)  
 **Wo?** Eigenbaukombinat Halle (Saale) e.V., [Landsbergerstr. 3, 06112 Halle (Saale)](https://www.openstreetmap.org/way/95664020)  
-[**Kontakt?!**](kontakt@eigenbaukombinat.de) oder im Matrix unter #Hackspace:matrix.eigenbaukombinat.de  
+[**Kontakt?!**](mailto:kontakt@eigenbaukombinat.de) oder im Matrix unter #Hackspace:matrix.eigenbaukombinat.de  
 Ihr habt Fragen? Dann schreibt uns im Matrix!
   
 ---  
