@@ -69,7 +69,7 @@ Mit CoSpaces wollen wir abtauchen in die wunderbare Welt der virtuellen Realtit√
 
 <ul class="pager main-pager">
               <li class="">
-                <a href="https://tickets.eigenbaukombinat.de/ebk/vhzh25-02-2/" target="_blank">zur Anmeldung, offen ab 17.04.2025 &rarr;</a>
+                <a href="https://tickets.eigenbaukombinat.de/ebk/vhzh25-02-2/" target="_blank">zur Anmeldung, offen ab 05.04.2025 &rarr;</a>
               </li>
 </ul>
 ---
