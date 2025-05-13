@@ -9,6 +9,8 @@ url: /kontakt/
 
 Falls du eine tolle Projektidee hast, oder Hilfe für dein laufendes Projekt suchst, kannst du dich im Matrix-User-Chat unter matrix.eigenbaukombinat.de melden. Details dazu findest du im [zugehörigen Blogbeitrag](/unser-neuer-chat-und-nachrichtenserver/).
 
+Hier geht’s zu unserer [Telegram-Gruppe](https://t.me/ebk_halle).
+
 Für Anfragen zu Veranstaltungen, insbesondere für Kurs- und Workshopanmeldungen, wende dich an [veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de).
 
 Unsere Postadresse findest du im [Impressum](/impressum/).
