@@ -1,6 +1,6 @@
 ---
 author: Horstiane
-date: 2025-05-12 20:01
+date: 2025-05-12 20:00:00+00:00
 draft: false
 title: 'Letzter Koch- und Kennenlernabend im Mai'
 type: post
@@ -22,7 +22,7 @@ Wir werden vegan kochen.
 
 Wir starten wie immer um 19 Uhr. Bitte tragt euch bis zum 15. Mai [hier](https://pads.eigenbaukombinat.de/SoPv9f96S_SD-0v0Lg62Kw#) ein, damit wir die Mengen gut planen können.
 
----
+
 Wenn euch interessiert, wie es denn eigentlich zum Koch- und Kennenlernabend kam, dann lade ich euch herzlich ein zu einer 
 +.*Zeitreise*.+
 Damals™ als frlan und ich (horstiane) noch in Jena den Hackspace unsicher gemacht haben, gab es einen Abend, an dem wir uns eine Pizza oder so gemacht haben. Ein paar Stängel Ruccola und eine halbe Zwiebel waren noch übrig. Die Umstehenden Personen schauten uns mit großen Augen an und haben gefragt, was wir denn jetzt _damit_ machen würden.
@@ -45,3 +45,4 @@ Mal sehen, wann uns die Ideen ausgehen. Auf jeden Fall freuen wir uns auf euch u
 Schaut gerne hier ins Pad und tragt euch ein, wir aktualisieren das immer wieder:
 https://pads.eigenbaukombinat.de/bastelbrunch#
 (Wenn ihr Probleme beim Eintragen habt, dann findet ihr hier unsere Kontaktmöglichkeiten: https://eigenbaukombinat.de/kontakt)
+
