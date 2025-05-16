@@ -205,7 +205,7 @@ unsafe= true
 #  itchio = "username"
 #  vk = "username"
 #  paypal = "username"
-#  telegram = "username"
+  telegram = "ebk_halle"
 #  500px = "username"
 #  codepen = "username"
   mastodon = "chaos.social/@eigenbaukombinat"
@@ -294,6 +294,13 @@ unsafe= true
     url = "/junghacker/"
     weight = 3
     parent = "projekte"
+
+[[menu.main]]
+    name = "HaGeWe"
+    url = "/hagewe/"
+    weight = 4
+    parent = "projekte"
+    
 
 [[menu.main]]
     name = "Matrix"
