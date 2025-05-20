@@ -14,7 +14,7 @@ Landsberger Straße 3
 
 Vertreten durch die einzeln vertretungsberechtigten Mitglieder des Vorstands:
 
-* Sophie Tauchert
+* Sophie Raven Tauchert
 * Christopher Thum
 * Frank Schulz
 
