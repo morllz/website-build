@@ -14,11 +14,9 @@ Landsberger Straße 3
 
 represented by the individual representatives of the Board:
 
-* Danilo Arlt
-* Uwe Flaig
-* Tania Flaig
-* Stephanie Teitge
-
+* Sophie Tauchert
+* Christopher Thum
+* Frank Schulz
 
 inscription as above 
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)

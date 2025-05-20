@@ -14,10 +14,9 @@ Landsberger Straße 3
 
 Vertreten durch die einzeln vertretungsberechtigten Mitglieder des Vorstands:
 
-* Danilo Arlt
-* Uwe Flaig
-* Tania Flaig
-* Stephanie Teitge
+* Sophie Tauchert
+* Christopher Thum
+* Frank Schulz
 
 Anschrift wie oben  
 [kontakt@eigenbaukombinat.de](mailto:kontakt@eigenbaukombinat.de)
