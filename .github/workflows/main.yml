@@ -1,0 +1,66 @@
+name: Generate Hugo
+
+defaults:
+  run:
+    shell: bash
+
+# Controls when the action will run. 
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  # branch to deploy
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Hugo
+        env:
+          HUGO_VERSION: 0.80.0
+        run: |
+          mkdir ~/hugo
+          cd ~/hugo
+          curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" --output hugo.tar.gz
+          tar -xvzf hugo.tar.gz
+          sudo mv hugo /usr/local/bin
+      # add the private key to the ssh-agent
+      # the private repo is referenced via ssh so the key will be used
+      # from the agent when doing the checkout
+      - uses: webfactory/ssh-agent@v0.5.0
+        with:
+          ssh-private-key: |
+                ${{ secrets.SSH_PRIVATE_KEY }}
+                ${{ secrets.SSH_PRIVATE_KEY2 }}    
+
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout master branch
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+
+      - name: Fix detached head on public submodule
+        run: |
+          cd  website-build/
+          git checkout master          
+
+      - name: Hugo Build
+        run: hugo  --gc --minify
+
+      - name: Commit changes
+        run: |
+          cd website-build/
+
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+
+          git add -A .
+
+          if git diff-index --quiet HEAD --; then
+            echo "No changes..."
+          else
+            git commit -m "[CI] build hugo static site"
+            git push -u origin master
+          fi
