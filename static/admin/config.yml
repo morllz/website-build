@@ -1,0 +1,26 @@
+backend:
+  name: github
+  repo: morllz/website-build
+  open_authoring: true
+
+publish_mode: editorial_workflow
+
+media_folder: "static/wp-content/uploads"
+public_folder: "/wp-content/uploads"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "content/post"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "hidden", default: "false" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "hidden", default: "post" }
+      - { label: "URL", name: "url", widget: "hidden", default: "{{title}}" }
+      - { label: "Categories", name: "categories", widget: "list", allow_add: true }
+      - { label: "Tags", name: "tags", widget: "list", allow_add: true }
+      - { label: "Body", name: "body", widget: "markdown"}
