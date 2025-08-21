@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 enableRobotsTXT = "true"
 
-paginate = 5
+pagination.pagerSize = 5
 
 [markup.goldmark.renderer]
 unsafe= true
