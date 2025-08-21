@@ -4,11 +4,8 @@ defaults:
   run:
     shell: bash
 
-# Controls when the action will run. 
 on:
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  # branch to deploy
   push:
     branches:
       - master
@@ -17,6 +14,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Generate GitHub App token
+        id: app-token
+        uses: tibdex/github-app-token@v2
+        with:
+          app_id: ${{ secrets.GITHUB_APP_ID }}
+          private_key: ${{ secrets.GITHUB_APP_PRIVATE_KEY }}
+
       - name: Install Hugo
         env:
           HUGO_VERSION: 0.80.0
@@ -26,30 +30,24 @@ jobs:
           curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" --output hugo.tar.gz
           tar -xvzf hugo.tar.gz
           sudo mv hugo /usr/local/bin
-      # add the private key to the ssh-agent
-      # the private repo is referenced via ssh so the key will be used
-      # from the agent when doing the checkout
-      - uses: webfactory/ssh-agent@v0.5.0
-        with:
-          ssh-private-key: |
-                ${{ secrets.SSH_PRIVATE_KEY }}
-                ${{ secrets.SSH_PRIVATE_KEY2 }}    
 
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout master branch
         uses: actions/checkout@v2
         with:
+          token: ${{ steps.app-token.outputs.token }}
           submodules: recursive
 
       - name: Fix detached head on public submodule
         run: |
-          cd  website-build/
-          git checkout master          
+          cd website-build/
+          git checkout master
 
       - name: Hugo Build
         run: hugo  --gc --minify
 
       - name: Commit changes
+        env:
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           cd website-build/
 
