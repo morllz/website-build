@@ -39,7 +39,7 @@ jobs:
 
       - name: Fix detached head on public submodule
         run: |
-          cd /home/runner/work/website-build/website-build
+          cd /home/runner/work/website-build/website-build/public
           git checkout
 
       - name: Hugo Build
