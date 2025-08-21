@@ -62,3 +62,14 @@ jobs:
             git commit -m "[CI] build hugo static site"
             git push -u origin master
           fi
+          
+          cd public
+          
+          git add -A .
+          
+          if git diff-index --quiet HEAD --; then
+            echo "No changes..."
+          else
+            git commit -m "[CI] build hugo static site"
+            git push -u origin master
+          fi
