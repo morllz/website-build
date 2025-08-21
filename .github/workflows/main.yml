@@ -39,11 +39,15 @@ jobs:
 
       - name: Fix detached head on public submodule
         run: |
+          cd /home/runner/work/website-build/website-build/
+          git checkout master
           cd /home/runner/work/website-build/website-build/public
-          git checkout
+          git checkout main
 
       - name: Hugo Build
-        run: hugo  --gc --minify
+        run: |
+          cd /home/runner/work/website-build/website-build/
+          hugo  --gc --minify
 
       - name: Commit changes
         env:
