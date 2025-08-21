@@ -3,4 +3,4 @@
 	url = https://github.com/halogenica/beautifulhugo.git
 [submodule "public"]
 	path = public
-	url = ssh://git@github.com/eigenbaukombinat/website.git
+	url = https://github.com/morllz/website.git
